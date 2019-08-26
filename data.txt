@@ -1,132 +1,53 @@
+Chuyển dịch công nghệ khiến các công ty tuyển dụng lập trình viên ngày càng khó khăn hơn
+Ông Trần Trung Hiếu, CEO TopCV cho biết, hiện trên TopCV mức lương nhóm nghề lập trình viên dao động từ 7-23 triệu đồng tuỳ theo kinh nghiệm, nhưng việc chuyển dịch công nghệ khiến “cầu đang nhiều hơn cung” nên các công ty ngày càng khó tuyển nhân sự phù hợp
+Theo CEO TopCV- startup hỗ trợ tuyển dụng, hiện TopCV đang có khoảng gần 200.000 ứng viên thuộc chuyên ngành CNTT (cụ thể là mảng lập trình viên), trong đó nhiều nhất là các vị trí liên quan đến lập trình web, Backend Developer (lập trình viên ngôn ngữ server-pv). “Do đây là nghề đã rất phổ biến ở VN từ trước đến nay, ngôn ngữ dễ học, dễ tiếp cận và có cộng đồng hỗ trợ lớn tại Việt Nam và thế giới”, ông Hiếu lý giải.
+Trong đó, nếu xét riêng nhóm nghề lập trình viên, mức lương sinh viên mới ra trường dao động từ 7-10 triệu đồng. Với những người có tố chất tốt về logic, lập trình, giỏi về giải thuật hoặc có kinh nghiệm đi làm hay thực tập từ 6 tháng trở lên, mức lương có thể trong khoảng từ 10-15 triệu đồng. “Những ứng viên có kinh nghiệm từ 2-5 năm, tuỳ theo năng lực, mức lương có thể trên 1.000 USD (khoảng hơn 23 triệu đồng)”, ông Hiếu khắng định.
+Trong thời gian tới, các vị trí Backend Developer, Mobile Developer, AI/Blockchain Developer sẽ phát triển mạnh mẽ hơn nữa.
+Đánh giá về xu hướng tuyển dụng hiện nay, ông Hiếu cho rằng, việc tuyển dụng nhân sự ngành CNTT, đặc biệt là vị trí lập trình viên ngày càng trở nên khó khăn. Do xu hướng chuyển dịch công nghệ của CMCN 4.0 nên rất nhiều startup, công ty mở ra, công ty nào cũng đòi hỏi sự đáp ứng cao từ các sản phẩm, dịch vụ CNTT. “Vì thế, cầu đang nhiều hơn cung trong việc tuyển dụng nhân sự CNTT tại Việt Nam”, ông Hiếu nói.
+Ngoài ra, các doanh nghiệp cũng đòi hỏi nhân sự có năng lực, tố chất cao hơn trước, trong khi nhiều trường đại học chưa đáp ứng được chất lượng đầu ra như kỳ vọng dẫn đến việc tuyển dụng ngày càng khó khăn.
+Bên cạnh đó, theo ông Hiếu, hiện số lượng nhân sự CNTT chất lượng cao, nhiều kinh nghiệm đang ngày càng có hạn và khó tuyển dụng hơn trước. Chính vì thế, nhiều doanh nghiệp hiện đang chuyển hướng, tuyển dụng nhân sự ít kinh nghiệm, nhất là sinh viên mới ra trường, sau đó đào tạo và phát triển. Tuy nhiên, những đối tượng này thường có tư duy tốt, chủ động học hỏi và nắm chắc kiến thức lập trình căn bản.
+“Từ đó, các doanh nghiệp có thể dễ dàng đào tạo theo định hướng sản phẩm của công ty, giảm được ngân sách cho tuyển dụng các vị trí này trong khi mức chi phí thị trường ngày càng cao”, ông Hiếu kết luận.
+Theo báo cáo của nền tảng tuyển dụng CNTT Topdev, nhu cầu tuyển dụng CNTT sẽ tăng mạnh vào năm 2019. Nguyên nhân dẫn đến việc tăng trưởng nóng nhân sự CNTT bao gồm: Việt Nam đã gây được sự chú ý khiến cho các công ty công nghệ trong khu vực tìm đến để thuê hoặc xây dựng đội ngũ phát triển sản phẩm; làn sóng khởi nghiệp sáng tạo trong lĩnh vực công nghệ ngày càng mạnh, đặc biệt sau các thương vụ đầu tư lớn cho các startup công nghệ; làn sóng chuyển mình của các doanh nghiệp truyền thống trong các lĩnh vực du lịch, nông nghiệp, bất động sản... sang làm về chuyển đổi số và thương mại điện tử.
+Trên cơ sở đó, việc thiếu hụt nhân sự luôn là một bài toán nan giải cho thị trường IT khi mà nhiều chuyên gia dự báo năm 2019 Việt Nam vẫn sẽ thiếu hụt từ 70.000 đến 90.000 nhân sự IT.
+Theo số liệu của Bộ Giáo dục và Đào tạo, cả nước hiện có 235 trường đại học, trong đó có 153 trường đào tạo CNTT, hàng năm có khoảng 50.000 sinh viên CNTT ra trường, trong đó chỉ có 30% làm việc được ngay, 70% phải đào tạo bổ sung. Bài toán đào tạo Nhân sự IT chất lượng đang dần trở thành trọng tâm của cả ngành Giáo dục & các doanh nghiệp CNTT hiện nay để đáp ứng công việc.
+Sếp nữ gốc Việt chia sẻ quy trình tuyển dụng ở Google: Chúng tôi tìm kiếm tài năng dạng thô, ứng viên giỏi xoay sở, chứ không ưu tiên kinh nghiệm
+Những thứ tôi thực sự tìm kiếm là những gì xảy ra trong bộ óc của ứng viên khi họ được đưa vào những tình huống giả định. Tôi luôn nhìn vào những gì được biểu lộ qua ánh mắt của ứng viên. Khi thấy anh ta trông sợ hãi hay anh ta rất thích thú với vấn đề hóc búa, bạn sẽ nhìn ra cách một người sẽ xử lý vấn đề phức tạp như thế nào".
+Google nổi tiếng là môi trường làm việc trong mơ đối với rất nhiều nhân sự trong lĩnh vực Công nghệ thông tin. Giống với nhiều tập đoàn công nghệ lớn khác, việc tuyển dụng vào Google luôn là đề tài được quan tâm trên các phương tiện truyền thông, với rất nhiều các bài viết tư vấn, các mẫu câu hỏi phỏng vấn "hack não" và các vòng tuyển dụng cạnh tranh khắc nghiệt.
+Bà Melissa Nguyễn, Giám đốc Quốc gia về Giải pháp Khách hàng tại Việt Nam và Thái Lan tại Google đã có những chia sẻ rất thẳng thắn với các doanh nghiệp Việt Nam về cách tập đoàn này đánh giá ứng viên tiềm năng và giữ chân nhân tài. Buổi chia sẻ được thực hiện tại trụ sở Google tại Singapore, trong khuôn khổ chương trình Talentnet Business Innovation Showcase - TBIS 2019, với chủ đề Zigzag Transformation, do Công ty Talentnet tổ chức ngày 20/6 vừa qua.
+Google yêu thích các ứng viên giỏi xoay sở, chứ không phải người chỉ bám chấp vào kinh nghiệm
+Đầu tiên tôi muốn hỏi, các bạn ở đây là ai, các bạn là những nhà tuyển dụng, trưởng bộ phận HR?
+50% các khách mời ở đây là các lãnh đạo doanh nghiệp đến từ các tập đoàn danh tiếng ở Việt Nam, 50% còn lại là các chuyên gia, quản lý được mời bởi Talentnet - một trong những agency HR lớn nhất tại Việt Nam.
+Chúng ta có những nhà lãnh đạo doanh nghiệp ở đây đúng không, cho nên câu trả lời của tôi sẽ tựu lại một điều thôi, đó là công nghệ cho phép doanh nghiệp thay đổi và thích ứng một cách vô cùng nhanh chóng, nên khi bạn nghĩ về phát triển nguồn nhân lực tài năng, bạn phải nghĩ tới tuyển dụng tài năng ở dạng thô (hiring raw talents), chứ không phải ưu tiên cho kinh nghiệm.
+Theo cách làm cũ, nếu chúng ta cần tuyển đội sales, chúng ta sẽ tìm những người đã làm từng làm sales. Tuy nhiên, yêu cầu đối với một người làm sales 5 năm trước sẽ khác với người làm sales hiện nay. Do vậy, thay vì tìm kiếm ai đã từ có kinh nghiệm cho công việc này, câu hỏi bạn nên đặt ra là những kỹ năng cơ bản cần thiết nào để một người có thể thành công ở vị trí đó.
+Ở Google, chúng tôi đã thay đổi cách đánh giá ứng viên từ dựa vào "role relevancy" (sự phù hợp với vị trí công việc), sang việc "role relevancy" chỉ là một trong 4 tiêu chí, và các tiêu chí còn lại được tìm kiếm đó là "transferrable skills" (các kỹ năng có thể chuyển đổi). Và tôi nghĩ đây là một cách tư duy mới trong việc phát triển doanh nghiệp.
+"Transferrable skills" vô cùng quan trọng đối với công việc của tôi hiện nay. Hãy để tôi kể cho các bạn một câu chuyện.
+Khi tôi gia nhập Google hơn 3 năm trước, tôi điều hành đội sales rất lớn kinh doanh digital marketing. Đây cũng là lần đầu tiên tôi điều hành đội sales, cũng là lần đầu làm việc trong lĩnh vực digial marketing.
+Trước đây, tôi là CFO và CEO của một công ty túi xách và một phòng khám da liễu. Tôi không hề tìm tới Google, mà Google đã tìm đến tôi và đưa cho tôi một đề nghị công việc.
+Bạn có thể băn khoăn, bằng cách nào Google đã quyết định tôi là người phù hợp cho vị trí làm việc đó? Là bởi, cách Google tin rằng một người nào đó phù hợp dựa vào tính cách, kỹ năng, cách thức tư duy cần thiết để thành công tại vị trí đó.
+Đối với trường hợp của tôi, trong quá khứ tôi đã chứng minh được khả năng phát triển, khả năng giải quyết những vấn đề phức tạp ở cả vĩ mô và vi mô, khả năng khích lệ mọi người. Đó là những kỹ năng Google cần ở tôi, và nó không quan trọng là tôi đã có được những kỹ năng từ đâu.
+Về chiến lược phát triển nguồn nhân lực tài năng của Google, tôi nghĩ bà đã chia sẻ một chút về nó, nhưng ý tôi là, liệu Google có tuyển dụng dựa trên bằng cấp hay không?
+Quy trình tuyển dụng bao gồm 2 vòng.
+Ở vòng một, chúng tôi tìm hiểu liệu một người có đủ tiêu chuẩn để hoàn thành công việc? Ví dụ, có 100 ứng viên cho một vị trí, trong đó có khoảng 20 người đủ tiêu chuẩn. Những người đó có thể thành công trong việc học hành hoặc không.
+Khi chúng ta có một tập đủ tiêu chuẩn như vậy, chúng ta sẽ xét đến ai sẽ làm người làm tốt nhất công việc được giao. Và một lần nữa, điều này không phụ thuộc vào kinh nghiệm anh ta đã có trong quá khứ. Trong một môi trường thay đổi vô cùng nhanh như hiện nay, chúng ta sẽ không muốn tuyển dụng những người làm việc theo lối mòn tư duy cũ. Chúng ta muốn những người có thể giải quyết công việc theo một cách hoàn toàn mới.
+Vì thế, nếu tôi tìm được một ứng viên đã từng có kinh nghiệm làm công việc y hệt trước đó, tôi sẽ thử thách anh ta để xem anh sẽ xử lý công việc theo đúng những gì anh ta đã làm, hay theo một cách khác. Chúng ta phải thử thách tư duy làm việc của nhân viên theo một trong những điều kiện tuyển dụng đó để xem họ thực sự có tài năng.
+Nói về tính cách, bà nghĩ tính cách nào được coi là quan trọng nhất mà Google tìm kiếm ở một ứng viên tiềm năng?
+Tôi xin lỗi, trước hết tôi xin phép được thay đổi cách dùng từ tính cách. Tính cách ở đây không mang nghĩa tính cách con người như là thân thiện, hòa đồng hay nghiêm nghị. Điều được tôi chú trọng thực sự là cách bạn tư duy như thế nào.
+Ví dụ, tại Google, tôi thực hiện rất nhiều cuộc phỏng vấn tuyển dụng, trung bình khoảng 5 buổi phỏng vấn trong 1 tuần, và tôi thậm chí không nhìn vào CV của các ứng viên. Bởi tôi cho rằng khi một người đến được vòng này, toàn bộ CV của họ đã được sàng lọc và họ là những ứng viên đủ tiêu chuẩn. Vì thế khi bước vào các buổi phỏng vấn, các ứng viên sẽ nói rất nhiều về kinh nghiệm quá khứ và tôi luôn mặc định rằng họ có đủ khả năng làm việc, nhưng điều tôi quan tâm đó là cách tư duy của họ.
+Ở bước thứ hai này, làm cách nào để tôi đánh giá được điều này? Cách làm đó là đưa ra cho ứng viên những tình huống cụ thể và hỏi xem họ sẽ xử lý tình huống đó như thế nào. Chúng tôi gọi phương pháp này là phỏng vấn dựa trên tình huống và các câu hỏi hành vi.
+Tôi đã thực hiện phương pháp này rất nhiều lần và những thứ tôi thực sự tìm kiếm là những gì xảy ra trong bộ óc của ứng viên khi họ được đưa vào những tình huống giả định. Tôi luôn nhìn vào những gì được biểu lộ qua ánh mắt của một ứng viên khi anh ta phải đối mặt với vấn đề hóc búa. Khi thấy anh ta trông sợ hãi hay anh ta rất thích thú với vấn đề, bạn sẽ nhìn ra cách một người sẽ xử lý vấn đề phức tạp như thế nào.
+Tôi muốn người ứng viên giải thích từng bước cách anh ta giải quyết vấn đề, sau đó tôi tiếp tục thử thách anh ta bằng những vấn đề khó hơn. Qua đó, có thể đánh giá khả năng thích ứng của một ứng viên. Bạn sẽ tìm ra những người vận dụng tất cả những kinh nghiệm từ công việc cho tới cuộc sống cá nhân để giải quyết một vấn đề. Từng có người nói với tôi rằng anh ta dùng kinh nghiệm trong mối quan hệ với vợ để xử lý các bất đồng với lãnh đạo.
+Bạn mong muốn những người mang tất cả những kinh nghiệm họ có để giải quyết vấn đề và đó chính là những người thực sự tạo ra sự ảnh hưởng trong một môi trường thay đổi nhanh chóng.
+Khu vực cà phê, ăn uống, thư giãn tại văn phòng Google Singapore.
+Bà có thể chia sẻ thêm quy trình tuyển dụng ở Google? Nó có thực sự vượt trội hơn các công ty khác hay không?
+Tôi chưa trải qua quy trình tuyển dụng ở các công ty khác nhưng tôi phải nói rằng quy trình tuyển dụng ở Google thực sự kỳ diệu. Nó cũng có rất nhiều yếu tố phụ thuộc như là văn hóa, cho nên tôi không chắc là nếu mang nó áp dụng sang một công ty khác thì có thành công hay không.
+Quy trình tuyển dụng tại Google bắt đầu với bước đầu tiên là sàng lọc ứng viên dựa vào backgrounds (nền tảng), khả năng làm việc của ứng viên chứ không phải kinh nghiệm. Tôi hi vọng các bạn có mặt ở đây hôm nay điều đầu tiên các bạn hỏi ứng viên sẽ không bao giờ là kinh nghiệm nữa.
 
- ICTNews
-Tìm kiếm
-   
-Hotline nội dung
-infonet
-Game
-THỜI SỰ
-VIỄN THÔNG
-INTERNET
-CNTT
-KINH DOANH
-THẾ GIỚI SỐ
-GAME
-KHỞI NGHIỆP
-CÔNG NGHỆ 360
-VIDEO
- Tin 24h qua
+Sau đó Google có một hệ thống đề mục tiêu chuẩn để kiểm tra ứng viên một cách khách quan. Chúng tôi kiểm tra ứng viên ở 4 lĩnh vực.
 
- 
-Mới nhất:
-Trang chủKinh doanhThứ 5, 01/08/2019
-KINH DOANH
-Apple giáng đòn mạnh vào thị trường xách tay Việt Nam, chủ cửa hàng nói chỉ bị ảnh hưởng nhẹ
-Apple giáng đòn mạnh vào thị trường xách tay Việt Nam, chủ cửa hàng nói chỉ bị ảnh hưởng nhẹ
-ICTnews - Apple áp dụng chính sách bảo hành mới tại Việt Nam, yêu cầu khách hàng phải có hoá đơn mua hàng chính hãng khi mang sản phẩm đi bảo hành. Quy định này được hiểu nhằm hạn chế khách mua hàng xách tay, hàng cũ không rõ nguồn gốc, tuy nhiên các cửa hàng cho rằng chỉ bị ảnh hưởng nhẹ trước bước đi của Apple.
-MobiFone “Gửi trọn yêu thương” - Đêm nhạc của tình yêu vẹn nguyên
-Doanh nghiệpDoanh nghiệp
-MobiFone “Gửi trọn yêu thương” - Đêm nhạc của tình yêu vẹn nguyên
-ICTnews - Sau thành công của các đêm nhạc tại Hà Nội, Nam Định và Hải Phòng, đêm nhạc “Gửi trọn yêu thương” của MobiFone đã diễn ra thành công...
-Ứng dụng gọi xe be bất ngờ tung ra dịch vụ giao hàng nhanh và chuyển phát cạnh tranh với Go-Viet, Grab
-Thị trườngThị trường
-Ứng dụng gọi xe be bất ngờ tung ra dịch vụ giao hàng nhanh và chuyển phát cạnh tranh với Go-Viet, Grab
-ICTnews - Dịch vụ giao hàng nhanh của be mang tên beDelivery sẽ chính thức có mặt từ 1/8 với mức giá khá cạnh tranh so với các đối thủ như Grab...
-Sau "siết thưởng", Go-Viet tiếp tục giảm đảm bảo thu nhập các cuốc xe Go-Food
-Thị trườngThị trường
-Sau "siết thưởng", Go-Viet tiếp tục giảm đảm bảo thu nhập các cuốc xe Go-Food
-ICTnews - Theo chính sách mới của Go-Viet, chương trình đảm bảo thu nhập Go-Food cũng được thay đổi theo chiều giảm xuống. Từ 30/7, mức đảm bảo...
-Doanh thu VNG đạt 2.524 tỷ đồng trong 6 tháng đầu năm 2019, lợi nhuận sau thuế đạt 315 tỷ đồng
-Doanh nghiệpDoanh nghiệp
-Doanh thu VNG đạt 2.524 tỷ đồng trong 6 tháng đầu năm 2019, lợi nhuận sau thuế đạt 315 tỷ đồng
-ICTnews - Trong 6 tháng đầu năm 2019, doanh thu thuần của VNG cán mốc 2.524 tỷ đồng, tăng 22% so với cùng kỳ 2018. Lợi nhuận sau thuế lũy kế...
-Apple và Samsung "tự bắn chân mình": Điện thoại đời cũ quá tốt, không ai muốn mua điện thoại đời mới giá cao nữa!
-Kinh doanhKinh doanh
-Apple và Samsung "tự bắn chân mình": Điện thoại đời cũ quá tốt, không ai muốn mua điện thoại đời mới giá cao nữa!
-ICTnews - Nếu có một điểm chung giữa báo cáo kinh doanh của Apple và Samsung, đó chính là nó cho thấy: Hầu hết mọi người không muốn bỏ 1.000...
-Ngồi tù vì buôn lậu iPhone, iPad giả sản xuất tại Trung Quốc vào chính ... quốc gia trụ sở Apple
-Thị trườngThị trường
-Ngồi tù vì buôn lậu iPhone, iPad giả sản xuất tại Trung Quốc vào chính ... quốc gia trụ sở Apple
-ICTnews - Một người Trung Quốc sống ở Mỹ đã bị kết án 37 tháng tù giam vì hành vi nhập lậu iPhone, iPad giả sản xuất tại Trung Quốc vào Mỹ. Tổng...
-Thế Giới Di Động và Điện máy Xanh tăng trưởng mạnh trong 6 tháng đầu năm 2019 nhờ cách làm này
-Doanh nghiệpDoanh nghiệp
-Thế Giới Di Động và Điện máy Xanh tăng trưởng mạnh trong 6 tháng đầu năm 2019 nhờ cách làm này
-ICTnews - Trong khi mảng điện thoại di động, điện máy trên thị trường đang có dấu hiệu bão hòa với mức tăng trưởng thấp, thậm chí giảm thì Thế...
-Chủ tịch VNLIFE: GIC và Softbank Vision Fund đầu tư vào tập đoàn VNLIFE
-Doanh nghiệpDoanh nghiệp
-Chủ tịch VNLIFE: GIC và Softbank Vision Fund đầu tư vào tập đoàn VNLIFE
-ICTnews - Ông Trần Trí Mạnh, Chủ tịch Tập đoàn VNLIFE cho biết, GIC và Softbank Vision Fund đã đầu tư vào Tập đoàn VNLIFE. Tập đoàn VNLIFE...
-Sony "chạm đáy nỗi đau": 3 tháng không bán nổi 1 triệu điện thoại
-Kinh doanhKinh doanh
-Sony "chạm đáy nỗi đau": 3 tháng không bán nổi 1 triệu điện thoại
-ICTnews - Doanh số smartphone Sony dường như không thể thấp hơn được nữa khi trong 3 tháng kết thúc vào ngày 30/6/2019, công ty Nhật Bản chỉ...
-Galaxy Fold ra mắt cùng lúc iPhone là trò khôn khéo của Samsung?
-Kinh doanhKinh doanh
-Galaxy Fold ra mắt cùng lúc iPhone là trò khôn khéo của Samsung?
-Galaxy Fold có thể ra mắt cùng lúc với loạt iPhone mới. Có ý kiến cho rằng đây là thời điểm không tốt, nhưng thực ra lại có lợi cho Galaxy Fold.
-Viettel Post khai trương dịch vụ tàu hàng nhanh Bắc – Nam hành trình dưới 40 giờ
-Doanh nghiệpDoanh nghiệp
-Viettel Post khai trương dịch vụ tàu hàng nhanh Bắc – Nam hành trình dưới 40 giờ
-ICTnews - Lễ khai trương tàu container nhanh Yên Viên – Sóng Thần đã được tổ chức tại ga Yên Viên- Hà Nội. Viettel Post là khách hàng lớn nhất...
-Lần đầu tiên kể từ 2012, iPhone đóng góp chưa được nửa doanh thu cho Apple
-Kinh doanhKinh doanh
-Lần đầu tiên kể từ 2012, iPhone đóng góp chưa được nửa doanh thu cho Apple
-ICTnews - Apple vừa báo cáo kết quả kinh doanh quý II/2019 với nhiều con số đáng chú ý, cho thấy chiến lược đa dạng hóa nguồn thu đang phát huy...
-'Gian thương' khắp Internet, cướp đi việc làm hàng triệu người
-Kinh doanhKinh doanh
-'Gian thương' khắp Internet, cướp đi việc làm hàng triệu người
-Đến năm 2022, giá trị của hàng giả được dự đoán đạt 2.800 tỷ USD, cướp đi 5,4 triệu việc làm.
-Dự kiến 30/8 sẽ công bố kết quả điều tra làm rõ “vụ Asanzo” 
-Kinh doanhKinh doanh
-Dự kiến 30/8 sẽ công bố kết quả điều tra làm rõ “vụ Asanzo”
-ICTnews - Ban chỉ đạo 389 cho biết, Bộ Công an, Bộ Tài chính, Bộ Khoa học và công nghệ đang phối hợp, tập trung làm rõ vụ Asanzo có vi phạm hay...
-Xem thêm bài viết
-12345
-ĐỌC NHIỀU
-12 sinh viên Đại học Bách khoa Hà Nội mới ra trường nhận lương 138 triệu đồng/tháng
-Doanh nghiệpDoanh nghiệp
-12 sinh viên Đại học Bách khoa Hà Nội mới ra trường nhận lương 138 triệu đồng/tháng
-Doanh thu VNG đạt 2.524 tỷ đồng trong 6 tháng đầu năm 2019, lợi nhuận sau thuế đạt 315 tỷ đồng
-Doanh nghiệpDoanh nghiệp
-Doanh thu VNG đạt 2.524 tỷ đồng trong 6 tháng đầu năm 2019, lợi nhuận sau thuế đạt 315 tỷ đồng
-Một "loài người" mới sẽ xuất hiện khi Nhật chính thức cho phép "người-thú" sinh ra
-Khoa họcKhoa học
-Một "loài người" mới sẽ xuất hiện khi Nhật chính thức cho phép "người-thú" sinh ra
-Forbes công bố: Giá trị thương hiệu MobiFone đạt gần 400 triệu USD, đứng thứ 5 trong Top 50 thương hiệu giá trị nhất Việt Nam năm 2019 
-Nước mạnh về ICTNước mạnh về ICT
-Forbes công bố: Giá trị thương hiệu MobiFone đạt gần 400 triệu USD, đứng thứ 5 trong Top 50 thương hiệu giá trị nhất Việt Nam năm 2019
-Công ty nội dung số Trung Quốc Tencent, Baidu ào ạt tấn công thị trường Việt Nam, cho người dùng thanh toán bằng tiền Việt
-Số hóa truyền hìnhSố hóa truyền hình
-Công ty nội dung số Trung Quốc Tencent, Baidu ào ạt tấn công thị trường Việt Nam, cho người dùng thanh toán bằng tiền Việt
+Lĩnh vực thứ nhất là khả năng tư duy cơ bản, hay còn gọi là khả năng phân tích thông tin. Một người sẽ vẽ ra kết nối giữa những tư duy thô sơ như thế nào, là điều quan trọng nhất tại Google. Chúng tôi đánh giá điều này bằng cách hỏi xem cách một ứng viên đã đưa quyết định như thế nào trong quá khứ, quyết định của anh ta sẽ thay đổi như thế nào nếu các thông tin đưa ra được thay đổi. Đó là phương pháp chúng tôi thử thách ứng viên và khiến họ bộc lộ cách họ tư duy.
 
- 
- 
- 
- 
- 
-THỜI SỰ
-VIỄN THÔNG
-INTERNET
-CNTT
-KINH DOANH
-THẾ GIỚI SỐ
-GAME
-KHỞI NGHIỆP
-CÔNG NGHỆ 360
-VIDEO
-logo
-Giấy phép hoạt động báo chí: Số 09/GP-BTTTT, Bộ Thông tin và Truyền thông cấp ngày 07/01/2019.
+Lĩnh vực tiếp theo đó là khả năng lãnh đạo. Lãnh đạo ở đây không chỉ có nghĩa là quản lý con người. Nó không có nghĩa là bạn phải quản lý một đội nhóm, đây là sai lầm của rất nhiều người. Mà đơn giản là nếu bạn là một leader (nhà lãnh đạo), bạn sẽ có follwers (những người đi theo). Vì thế chúng tôi sẽ quan tâm liệu ứng viên có những người cùng theo đuổi những ý tưởng, lý tưởng của anh ta hay không.
 
-Tòa soạn: Tầng 7, Tòa nhà Cục Tần số Vô tuyến điện, 115 Trần Duy Hưng, Quận Cầu Giấy, Hà Nội
+Điều thứ ba là kiến thức liên quan. Sẽ có những kiến thức cụ thể liên quan tới công việc để giúp xử lý công việc. Ví dụ nếu bạn làm việc trong lĩnh vực ô tô, hay bán quảng cáo hay ngân hàng, bạn cần những kiến thức cụ thể cho công việc đó. Nếu bạn không thể cho thấy bạn có những kiến thức đó, liệu bạn có thể học hay không? Đó là khi transferrable skills được thể hiện.
 
-Điện thoại: 024 3 936 9966 - Fax: 024 3 936 9364
-
-Hotline nội dung: 0888 911 911 - Email: toasoan@ictnews.vn
-
-CHUYÊN TRANG CỦA BÁO
-
- 
-Powered by ONECMS - A product of NEKO
-
-lên đầu trang
-I163KL5LD4.45MI158KRank31.3KAge2007|05|20l0sourceMore dataSummary reportDiagnosisDensity998n/a
+Điều cuối cùng đó là tính cách "goodliness". Nó nói lên bạn là ai, bạn là kiểu người như thế nào khi gặp một vấn đề, liệu bạn có thấy hứng khởi với vấn đề đó. Nó cũng liên quan tới những câu hỏi như là bạn sẽ làm gì khi có nhiều quản lý bị thay đổi chỉ trong vòng bốn tháng? Bạn sẽ xử lý như thế nào với rất nhiều thứ bạn không biết? Bạn là người có tư tưởng thắng-thua, hay win-win (cùng thắng).

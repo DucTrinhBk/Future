@@ -237,70 +237,75 @@ def get_sens_from_keys(sen,match,keys):
     ks = get_all_keys(sen,match,keys)
     int e = 0
     for k in ks:
-'''       
-'''
-start = dt.now()
-f = open("words.txt", "w")
-text = open('data.txt','r').read()
-words = text.replace('\n',' . ').split()
-sens = []
-sen = ""
-dic = dict()
-ws = []
-for word in words:
-    tp,w = get_w_pos_in_sen(word)
-    sen+=(" "+w)
-    if tp == "End":
-        sens.append(re.sub(r"\s+"," ",sen.strip()))
-        sen = ""
-    if w!="":
-        ws.append(w)
-        if w not in dic:
-            dic[w] = 1
-        else:
-            dic[w]+=1
-len_ = len(ws)
-k = 2
-phrdict = [dic]
-#dic2 = dict()
-while(True):
-    phrs_n = dict()
-    for i in range(len_):
-        if i <= len_ - k:
-            phrases = [" ".join([ws[i+j] for j in range(k-1)])," ".join([ws[i+j] for j in range(1,k)])]
-            phrase2 = " ".join([ws[i+j] for j in range(k)])
-            if phrase2 not in phrs_n:
-                phrs_n[phrase2] = 0
-                for sen in sens:
-                    s = sen    
-                    while(True):
-                        p = s.find(phrase2)
-                        if p == -1:
-                            break
-                        phrs_n[phrase2]+=1
-                        s = s[p+1:]
-            #print(str(phrases)+" ::: "+phrase2+" => "+str(phrs_n[phrase2]))
-        for phrase in phrases:
-            if phrs_n[phrase2] == phrdict[k-2][phrase]:
-                phrdict[k-2][phrase] = 0 
-        print("t1 = "+str((dt.now() - start).total_seconds()*1000))
-    max_ = max(phrs_n.values())
-    #print(str(max_)+" "+str(k)+" "+str(len(phrdict)))
-    if(max_ < 2):
-        break
-    phrdict.append(phrs_n)
-    k+=1
-i = 0
-data = []
-for dic in phrdict:
-    data.append([])
-    #print("")
-    for w in dic:
-        s = get_num_of_sylables(w) #số lượng âm tiết trong 1 từ
-        density = dic[w] * s #mật độ xuất hiện của từ trong văn bản
-        if density > 10 and dic[w] > 1 and s>1:
-            #print(w+" "+str(s))
-            data[i].append({'value' : w,'num_of_syllable' : s,'num' : dic[w],'density' : density})   
-    i += 1
-f.write(json.dumps(data,ensure_ascii=False))
-'''
+'''  
+ #   text = open('data.txt','r').read()
+#    words = text.replace('\n',' . ').split()     
+def get_keywords(corpus,min_density):
+    f = open("words.txt", "w")
+    start = dt.now()
+    words = corpus.replace('\n',' . ').split()
+    sens = []
+    sen = ""
+    dic = dict()
+    ws = []
+    sum_of_syllabels = 0
+    for word in words:
+        tp,w = get_w_pos_in_sen(word)
+        sum_of_syllabels+=get_num_of_sylables(w)
+        sen+=(" "+w)
+        if tp == "End":
+            sens.append(re.sub(r"\s+"," ",sen.strip()))
+            sen = ""
+        if w!="":
+            ws.append(w)
+            if w not in dic:
+                dic[w] = 1
+            else:
+                dic[w]+=1
+    len_ = len(ws)
+    k = 2
+    phrdict = [dic]
+    #dic2 = dict()
+    while(True):
+        phrs_n = dict()
+        for i in range(len_):
+            if i <= len_ - k:
+                phrases = [" ".join([ws[i+j] for j in range(k-1)])," ".join([ws[i+j] for j in range(1,k)])]
+                phrase2 = " ".join([ws[i+j] for j in range(k)])
+                if phrase2 not in phrs_n:
+                    phrs_n[phrase2] = 0
+                    for sen in sens:
+                        s = sen    
+                        while(True):
+                            p = s.find(phrase2)
+                            if p == -1:
+                                break
+                            phrs_n[phrase2]+=1
+                            s = s[p+1:]
+                #print(str(phrases)+" ::: "+phrase2+" => "+str(phrs_n[phrase2]))
+            for phrase in phrases:
+                if phrs_n[phrase2] == phrdict[k-2][phrase]:
+                    phrdict[k-2][phrase] = 0 
+            print("thời gian = "+str((dt.now() - start).total_seconds()*1000))
+        max_ = max(phrs_n.values())
+        #print(str(max_)+" "+str(k)+" "+str(len(phrdict)))
+        if(max_ < 2):
+            break
+        phrdict.append(phrs_n)
+        k+=1
+    i = 0
+    data = []
+    for dic in phrdict:
+        data.append([])
+        #print("")
+        for w in dic:
+            s = get_num_of_sylables(w) #số lượng âm tiết trong 1 từ
+            density = dic[w] * s #mật độ xuất hiện của từ trong văn bản
+            if density > min_density and dic[w] > 1 and s>1:
+                #print(w+" "+str(s))
+                data[i].append({'value' : w,'num_of_syllable' : s,'num' : dic[w],'density' : density * 100/sum_of_syllabels})   
+        i += 1
+    f.write(json.dumps(data,ensure_ascii=False))
+    print("tổng thời gian = "+str((dt.now() - start).total_seconds()*1000))
+    print('số lượng âm tiết: '+str(sum_of_syllabels))
+get_keywords(open('data.txt','r').read(),8)
