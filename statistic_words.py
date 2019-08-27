@@ -241,7 +241,6 @@ def get_sens_from_keys(sen,match,keys):
  #   text = open('data.txt','r').read()
 #    words = text.replace('\n',' . ').split()     
 def get_keywords(corpus,min_density):
-    f = open("words.txt", "w")
     start = dt.now()
     words = corpus.replace('\n',' . ').split()
     sens = []
@@ -286,7 +285,7 @@ def get_keywords(corpus,min_density):
             for phrase in phrases:
                 if phrs_n[phrase2] == phrdict[k-2][phrase]:
                     phrdict[k-2][phrase] = 0 
-            print("thời gian = "+str((dt.now() - start).total_seconds()*1000))
+            print("thời gian = "+str((dt.now() - start).total_seconds())+' giây')
         max_ = max(phrs_n.values())
         #print(str(max_)+" "+str(k)+" "+str(len(phrdict)))
         if(max_ < 2):
@@ -297,15 +296,14 @@ def get_keywords(corpus,min_density):
     data = []
     for dic in phrdict:
         data.append([])
-        #print("")
         for w in dic:
             s = get_num_of_sylables(w) #số lượng âm tiết trong 1 từ
             density = dic[w] * s #mật độ xuất hiện của từ trong văn bản
             if density > min_density and dic[w] > 1 and s>1:
-                #print(w+" "+str(s))
                 data[i].append({'value' : w,'num_of_syllable' : s,'num' : dic[w],'density' : density * 100/sum_of_syllabels})   
         i += 1
-    f.write(json.dumps(data,ensure_ascii=False))
     print("tổng thời gian = "+str((dt.now() - start).total_seconds()*1000))
     print('số lượng âm tiết: '+str(sum_of_syllabels))
-get_keywords(open('data.txt','r').read(),8)
+    return data
+f = open("words.txt", "w")
+f.write(json.dumps(get_keywords(open('data.txt','r').read(),20),ensure_ascii=False))

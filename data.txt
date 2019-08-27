@@ -1,53 +1,450 @@
-Chuyển dịch công nghệ khiến các công ty tuyển dụng lập trình viên ngày càng khó khăn hơn
-Ông Trần Trung Hiếu, CEO TopCV cho biết, hiện trên TopCV mức lương nhóm nghề lập trình viên dao động từ 7-23 triệu đồng tuỳ theo kinh nghiệm, nhưng việc chuyển dịch công nghệ khiến “cầu đang nhiều hơn cung” nên các công ty ngày càng khó tuyển nhân sự phù hợp
-Theo CEO TopCV- startup hỗ trợ tuyển dụng, hiện TopCV đang có khoảng gần 200.000 ứng viên thuộc chuyên ngành CNTT (cụ thể là mảng lập trình viên), trong đó nhiều nhất là các vị trí liên quan đến lập trình web, Backend Developer (lập trình viên ngôn ngữ server-pv). “Do đây là nghề đã rất phổ biến ở VN từ trước đến nay, ngôn ngữ dễ học, dễ tiếp cận và có cộng đồng hỗ trợ lớn tại Việt Nam và thế giới”, ông Hiếu lý giải.
-Trong đó, nếu xét riêng nhóm nghề lập trình viên, mức lương sinh viên mới ra trường dao động từ 7-10 triệu đồng. Với những người có tố chất tốt về logic, lập trình, giỏi về giải thuật hoặc có kinh nghiệm đi làm hay thực tập từ 6 tháng trở lên, mức lương có thể trong khoảng từ 10-15 triệu đồng. “Những ứng viên có kinh nghiệm từ 2-5 năm, tuỳ theo năng lực, mức lương có thể trên 1.000 USD (khoảng hơn 23 triệu đồng)”, ông Hiếu khắng định.
-Trong thời gian tới, các vị trí Backend Developer, Mobile Developer, AI/Blockchain Developer sẽ phát triển mạnh mẽ hơn nữa.
-Đánh giá về xu hướng tuyển dụng hiện nay, ông Hiếu cho rằng, việc tuyển dụng nhân sự ngành CNTT, đặc biệt là vị trí lập trình viên ngày càng trở nên khó khăn. Do xu hướng chuyển dịch công nghệ của CMCN 4.0 nên rất nhiều startup, công ty mở ra, công ty nào cũng đòi hỏi sự đáp ứng cao từ các sản phẩm, dịch vụ CNTT. “Vì thế, cầu đang nhiều hơn cung trong việc tuyển dụng nhân sự CNTT tại Việt Nam”, ông Hiếu nói.
-Ngoài ra, các doanh nghiệp cũng đòi hỏi nhân sự có năng lực, tố chất cao hơn trước, trong khi nhiều trường đại học chưa đáp ứng được chất lượng đầu ra như kỳ vọng dẫn đến việc tuyển dụng ngày càng khó khăn.
-Bên cạnh đó, theo ông Hiếu, hiện số lượng nhân sự CNTT chất lượng cao, nhiều kinh nghiệm đang ngày càng có hạn và khó tuyển dụng hơn trước. Chính vì thế, nhiều doanh nghiệp hiện đang chuyển hướng, tuyển dụng nhân sự ít kinh nghiệm, nhất là sinh viên mới ra trường, sau đó đào tạo và phát triển. Tuy nhiên, những đối tượng này thường có tư duy tốt, chủ động học hỏi và nắm chắc kiến thức lập trình căn bản.
-“Từ đó, các doanh nghiệp có thể dễ dàng đào tạo theo định hướng sản phẩm của công ty, giảm được ngân sách cho tuyển dụng các vị trí này trong khi mức chi phí thị trường ngày càng cao”, ông Hiếu kết luận.
-Theo báo cáo của nền tảng tuyển dụng CNTT Topdev, nhu cầu tuyển dụng CNTT sẽ tăng mạnh vào năm 2019. Nguyên nhân dẫn đến việc tăng trưởng nóng nhân sự CNTT bao gồm: Việt Nam đã gây được sự chú ý khiến cho các công ty công nghệ trong khu vực tìm đến để thuê hoặc xây dựng đội ngũ phát triển sản phẩm; làn sóng khởi nghiệp sáng tạo trong lĩnh vực công nghệ ngày càng mạnh, đặc biệt sau các thương vụ đầu tư lớn cho các startup công nghệ; làn sóng chuyển mình của các doanh nghiệp truyền thống trong các lĩnh vực du lịch, nông nghiệp, bất động sản... sang làm về chuyển đổi số và thương mại điện tử.
-Trên cơ sở đó, việc thiếu hụt nhân sự luôn là một bài toán nan giải cho thị trường IT khi mà nhiều chuyên gia dự báo năm 2019 Việt Nam vẫn sẽ thiếu hụt từ 70.000 đến 90.000 nhân sự IT.
-Theo số liệu của Bộ Giáo dục và Đào tạo, cả nước hiện có 235 trường đại học, trong đó có 153 trường đào tạo CNTT, hàng năm có khoảng 50.000 sinh viên CNTT ra trường, trong đó chỉ có 30% làm việc được ngay, 70% phải đào tạo bổ sung. Bài toán đào tạo Nhân sự IT chất lượng đang dần trở thành trọng tâm của cả ngành Giáo dục & các doanh nghiệp CNTT hiện nay để đáp ứng công việc.
-Sếp nữ gốc Việt chia sẻ quy trình tuyển dụng ở Google: Chúng tôi tìm kiếm tài năng dạng thô, ứng viên giỏi xoay sở, chứ không ưu tiên kinh nghiệm
-Những thứ tôi thực sự tìm kiếm là những gì xảy ra trong bộ óc của ứng viên khi họ được đưa vào những tình huống giả định. Tôi luôn nhìn vào những gì được biểu lộ qua ánh mắt của ứng viên. Khi thấy anh ta trông sợ hãi hay anh ta rất thích thú với vấn đề hóc búa, bạn sẽ nhìn ra cách một người sẽ xử lý vấn đề phức tạp như thế nào".
-Google nổi tiếng là môi trường làm việc trong mơ đối với rất nhiều nhân sự trong lĩnh vực Công nghệ thông tin. Giống với nhiều tập đoàn công nghệ lớn khác, việc tuyển dụng vào Google luôn là đề tài được quan tâm trên các phương tiện truyền thông, với rất nhiều các bài viết tư vấn, các mẫu câu hỏi phỏng vấn "hack não" và các vòng tuyển dụng cạnh tranh khắc nghiệt.
-Bà Melissa Nguyễn, Giám đốc Quốc gia về Giải pháp Khách hàng tại Việt Nam và Thái Lan tại Google đã có những chia sẻ rất thẳng thắn với các doanh nghiệp Việt Nam về cách tập đoàn này đánh giá ứng viên tiềm năng và giữ chân nhân tài. Buổi chia sẻ được thực hiện tại trụ sở Google tại Singapore, trong khuôn khổ chương trình Talentnet Business Innovation Showcase - TBIS 2019, với chủ đề Zigzag Transformation, do Công ty Talentnet tổ chức ngày 20/6 vừa qua.
-Google yêu thích các ứng viên giỏi xoay sở, chứ không phải người chỉ bám chấp vào kinh nghiệm
-Đầu tiên tôi muốn hỏi, các bạn ở đây là ai, các bạn là những nhà tuyển dụng, trưởng bộ phận HR?
-50% các khách mời ở đây là các lãnh đạo doanh nghiệp đến từ các tập đoàn danh tiếng ở Việt Nam, 50% còn lại là các chuyên gia, quản lý được mời bởi Talentnet - một trong những agency HR lớn nhất tại Việt Nam.
-Chúng ta có những nhà lãnh đạo doanh nghiệp ở đây đúng không, cho nên câu trả lời của tôi sẽ tựu lại một điều thôi, đó là công nghệ cho phép doanh nghiệp thay đổi và thích ứng một cách vô cùng nhanh chóng, nên khi bạn nghĩ về phát triển nguồn nhân lực tài năng, bạn phải nghĩ tới tuyển dụng tài năng ở dạng thô (hiring raw talents), chứ không phải ưu tiên cho kinh nghiệm.
-Theo cách làm cũ, nếu chúng ta cần tuyển đội sales, chúng ta sẽ tìm những người đã làm từng làm sales. Tuy nhiên, yêu cầu đối với một người làm sales 5 năm trước sẽ khác với người làm sales hiện nay. Do vậy, thay vì tìm kiếm ai đã từ có kinh nghiệm cho công việc này, câu hỏi bạn nên đặt ra là những kỹ năng cơ bản cần thiết nào để một người có thể thành công ở vị trí đó.
-Ở Google, chúng tôi đã thay đổi cách đánh giá ứng viên từ dựa vào "role relevancy" (sự phù hợp với vị trí công việc), sang việc "role relevancy" chỉ là một trong 4 tiêu chí, và các tiêu chí còn lại được tìm kiếm đó là "transferrable skills" (các kỹ năng có thể chuyển đổi). Và tôi nghĩ đây là một cách tư duy mới trong việc phát triển doanh nghiệp.
-"Transferrable skills" vô cùng quan trọng đối với công việc của tôi hiện nay. Hãy để tôi kể cho các bạn một câu chuyện.
-Khi tôi gia nhập Google hơn 3 năm trước, tôi điều hành đội sales rất lớn kinh doanh digital marketing. Đây cũng là lần đầu tiên tôi điều hành đội sales, cũng là lần đầu làm việc trong lĩnh vực digial marketing.
-Trước đây, tôi là CFO và CEO của một công ty túi xách và một phòng khám da liễu. Tôi không hề tìm tới Google, mà Google đã tìm đến tôi và đưa cho tôi một đề nghị công việc.
-Bạn có thể băn khoăn, bằng cách nào Google đã quyết định tôi là người phù hợp cho vị trí làm việc đó? Là bởi, cách Google tin rằng một người nào đó phù hợp dựa vào tính cách, kỹ năng, cách thức tư duy cần thiết để thành công tại vị trí đó.
-Đối với trường hợp của tôi, trong quá khứ tôi đã chứng minh được khả năng phát triển, khả năng giải quyết những vấn đề phức tạp ở cả vĩ mô và vi mô, khả năng khích lệ mọi người. Đó là những kỹ năng Google cần ở tôi, và nó không quan trọng là tôi đã có được những kỹ năng từ đâu.
-Về chiến lược phát triển nguồn nhân lực tài năng của Google, tôi nghĩ bà đã chia sẻ một chút về nó, nhưng ý tôi là, liệu Google có tuyển dụng dựa trên bằng cấp hay không?
-Quy trình tuyển dụng bao gồm 2 vòng.
-Ở vòng một, chúng tôi tìm hiểu liệu một người có đủ tiêu chuẩn để hoàn thành công việc? Ví dụ, có 100 ứng viên cho một vị trí, trong đó có khoảng 20 người đủ tiêu chuẩn. Những người đó có thể thành công trong việc học hành hoặc không.
-Khi chúng ta có một tập đủ tiêu chuẩn như vậy, chúng ta sẽ xét đến ai sẽ làm người làm tốt nhất công việc được giao. Và một lần nữa, điều này không phụ thuộc vào kinh nghiệm anh ta đã có trong quá khứ. Trong một môi trường thay đổi vô cùng nhanh như hiện nay, chúng ta sẽ không muốn tuyển dụng những người làm việc theo lối mòn tư duy cũ. Chúng ta muốn những người có thể giải quyết công việc theo một cách hoàn toàn mới.
-Vì thế, nếu tôi tìm được một ứng viên đã từng có kinh nghiệm làm công việc y hệt trước đó, tôi sẽ thử thách anh ta để xem anh sẽ xử lý công việc theo đúng những gì anh ta đã làm, hay theo một cách khác. Chúng ta phải thử thách tư duy làm việc của nhân viên theo một trong những điều kiện tuyển dụng đó để xem họ thực sự có tài năng.
-Nói về tính cách, bà nghĩ tính cách nào được coi là quan trọng nhất mà Google tìm kiếm ở một ứng viên tiềm năng?
-Tôi xin lỗi, trước hết tôi xin phép được thay đổi cách dùng từ tính cách. Tính cách ở đây không mang nghĩa tính cách con người như là thân thiện, hòa đồng hay nghiêm nghị. Điều được tôi chú trọng thực sự là cách bạn tư duy như thế nào.
-Ví dụ, tại Google, tôi thực hiện rất nhiều cuộc phỏng vấn tuyển dụng, trung bình khoảng 5 buổi phỏng vấn trong 1 tuần, và tôi thậm chí không nhìn vào CV của các ứng viên. Bởi tôi cho rằng khi một người đến được vòng này, toàn bộ CV của họ đã được sàng lọc và họ là những ứng viên đủ tiêu chuẩn. Vì thế khi bước vào các buổi phỏng vấn, các ứng viên sẽ nói rất nhiều về kinh nghiệm quá khứ và tôi luôn mặc định rằng họ có đủ khả năng làm việc, nhưng điều tôi quan tâm đó là cách tư duy của họ.
-Ở bước thứ hai này, làm cách nào để tôi đánh giá được điều này? Cách làm đó là đưa ra cho ứng viên những tình huống cụ thể và hỏi xem họ sẽ xử lý tình huống đó như thế nào. Chúng tôi gọi phương pháp này là phỏng vấn dựa trên tình huống và các câu hỏi hành vi.
-Tôi đã thực hiện phương pháp này rất nhiều lần và những thứ tôi thực sự tìm kiếm là những gì xảy ra trong bộ óc của ứng viên khi họ được đưa vào những tình huống giả định. Tôi luôn nhìn vào những gì được biểu lộ qua ánh mắt của một ứng viên khi anh ta phải đối mặt với vấn đề hóc búa. Khi thấy anh ta trông sợ hãi hay anh ta rất thích thú với vấn đề, bạn sẽ nhìn ra cách một người sẽ xử lý vấn đề phức tạp như thế nào.
-Tôi muốn người ứng viên giải thích từng bước cách anh ta giải quyết vấn đề, sau đó tôi tiếp tục thử thách anh ta bằng những vấn đề khó hơn. Qua đó, có thể đánh giá khả năng thích ứng của một ứng viên. Bạn sẽ tìm ra những người vận dụng tất cả những kinh nghiệm từ công việc cho tới cuộc sống cá nhân để giải quyết một vấn đề. Từng có người nói với tôi rằng anh ta dùng kinh nghiệm trong mối quan hệ với vợ để xử lý các bất đồng với lãnh đạo.
-Bạn mong muốn những người mang tất cả những kinh nghiệm họ có để giải quyết vấn đề và đó chính là những người thực sự tạo ra sự ảnh hưởng trong một môi trường thay đổi nhanh chóng.
-Khu vực cà phê, ăn uống, thư giãn tại văn phòng Google Singapore.
-Bà có thể chia sẻ thêm quy trình tuyển dụng ở Google? Nó có thực sự vượt trội hơn các công ty khác hay không?
-Tôi chưa trải qua quy trình tuyển dụng ở các công ty khác nhưng tôi phải nói rằng quy trình tuyển dụng ở Google thực sự kỳ diệu. Nó cũng có rất nhiều yếu tố phụ thuộc như là văn hóa, cho nên tôi không chắc là nếu mang nó áp dụng sang một công ty khác thì có thành công hay không.
-Quy trình tuyển dụng tại Google bắt đầu với bước đầu tiên là sàng lọc ứng viên dựa vào backgrounds (nền tảng), khả năng làm việc của ứng viên chứ không phải kinh nghiệm. Tôi hi vọng các bạn có mặt ở đây hôm nay điều đầu tiên các bạn hỏi ứng viên sẽ không bao giờ là kinh nghiệm nữa.
+Sử sách thời Sassanides, thời của những ông vua quốc gia Ba Tư cổ xưa, đất nước có biên cương mở rộng tới tận Ấn Độ và các đảo phụ thuộc lớn nhỏ, trải ra tới phía bên kia sông Hằng và phần đất rộng lớn của Trung Quốc bao la, chép lại rằng ngày xưa có một ông vua của cái quốc gia hùng mạnh đó, nổi tiếng là một đấng quân vương anh minh, đức độ.
 
-Sau đó Google có một hệ thống đề mục tiêu chuẩn để kiểm tra ứng viên một cách khách quan. Chúng tôi kiểm tra ứng viên ở 4 lĩnh vực.
+Ông vua này chẳng những được các thần dân tôn sùng kính mến vì tài năng và tính cẩn trọng mà còn được các quốc gia lân bang nể sợ vì uy danh có một đạo quân thiện chiến và kỷ luật. Đức vua có hai hoàng tử. Hoàng tử anh tên là Schahriar có đầy đủ đức tính như cha, xứng đáng là người sẽ được kế tục ngôi báu. Hoàng tử em là Schahzenan cũng chẳng thua kém gì anh về mọi mặt.
 
-Lĩnh vực thứ nhất là khả năng tư duy cơ bản, hay còn gọi là khả năng phân tích thông tin. Một người sẽ vẽ ra kết nối giữa những tư duy thô sơ như thế nào, là điều quan trọng nhất tại Google. Chúng tôi đánh giá điều này bằng cách hỏi xem cách một ứng viên đã đưa quyết định như thế nào trong quá khứ, quyết định của anh ta sẽ thay đổi như thế nào nếu các thông tin đưa ra được thay đổi. Đó là phương pháp chúng tôi thử thách ứng viên và khiến họ bộc lộ cách họ tư duy.
+Sau một thời gian dài trị vì trong vinh quang và thịnh vượng, đức vua cha già yếu thăng hà. Schahriar, hoàng tử anh lên ngôi. Theo luật của đất nước này, hoàng tử em Schahzenan không được xẻ chia quyền hành, đành phải sống như một dân thường. Không có một chút gì bất đồng đố kị, Schahzenan còn ra sức giúp đỡ anh làm cho anh lúc nào cũng vui vẻ hài lòng.
 
-Lĩnh vực tiếp theo đó là khả năng lãnh đạo. Lãnh đạo ở đây không chỉ có nghĩa là quản lý con người. Nó không có nghĩa là bạn phải quản lý một đội nhóm, đây là sai lầm của rất nhiều người. Mà đơn giản là nếu bạn là một leader (nhà lãnh đạo), bạn sẽ có follwers (những người đi theo). Vì thế chúng tôi sẽ quan tâm liệu ứng viên có những người cùng theo đuổi những ý tưởng, lý tưởng của anh ta hay không.
+Schahrlar vốn đã rất yêu quí em, nay lại thấy rõ thái độ vô tư của chàng nên lại càng mến trọng. Trong niềm xúc động hân hoan đó, Schahrlar quyết cắt đất Đại Tartarie và phong cho em làm vua quốc gia rộng lớn này. Hoàng tử em Schahzenan bèn từ biệt vua anh và lên đường nhậm chức. Chàng chọn Samarcande làm thủ phủ của đất nước.
 
-Điều thứ ba là kiến thức liên quan. Sẽ có những kiến thức cụ thể liên quan tới công việc để giúp xử lý công việc. Ví dụ nếu bạn làm việc trong lĩnh vực ô tô, hay bán quảng cáo hay ngân hàng, bạn cần những kiến thức cụ thể cho công việc đó. Nếu bạn không thể cho thấy bạn có những kiến thức đó, liệu bạn có thể học hay không? Đó là khi transferrable skills được thể hiện.
+Đã mười năm rồi, hai vị vua anh em đó xa nhau, khi vua Schahriar nảy ra ý muốn tha thiết được gặp lại em. Ông quyết định cử một sứ thần đi triệu em về triều. Thế là vị đại thần đầu triều cầm đầu sứ bộ cùng với cả một đoàn tuỳ tùng lên đường ngay. Khi tới gần thủ phủ Samarcande, vua Schahzenan được tin, đã cùng với các đại thần của triều đình mình, phẩm phục chỉnh tề ra nghênh đón. Vua xứ Tartarie tỏ ra hết sức vui mừng, trước hết thăm hỏi tình hình của đức vua anh. Sau khi thoả mãn yêu cầu của quốc vương xứ Tartarle, ngài tể tướng mới trình bầy mục đích của sứ bộ. Schahzenan vô cùng cảm động. Quốc vương bảo:
 
-Điều cuối cùng đó là tính cách "goodliness". Nó nói lên bạn là ai, bạn là kiểu người như thế nào khi gặp một vấn đề, liệu bạn có thấy hứng khởi với vấn đề đó. Nó cũng liên quan tới những câu hỏi như là bạn sẽ làm gì khi có nhiều quản lý bị thay đổi chỉ trong vòng bốn tháng? Bạn sẽ xử lý như thế nào với rất nhiều thứ bạn không biết? Bạn là người có tư tưởng thắng-thua, hay win-win (cùng thắng).
+- Tể tướng, đức vua anh ta đã làm cho ta thật là vinh hạnh, ý muốn của Người đã làm ta vui sướng khôn cùng. Người muốn gặp lại ta, ta cũng rất nóng lòng được thấy mặt Người. Thời gian đã chẳng làm giảm đi tình nghĩa anh em của Người, thì ta cũng vậy, tình nghĩa anh em của ta đối với Người vẫn luôn luôn sâu đậm. Quốc gia ta luôn an bình, ta chỉ cần khoảng mười hôm để chuẩn bị và sẵn sàng lên đường cùng với nhà ngươi. Như vậy nhà ngươi cũng chẳng cần vào thành làm gì với khoảng thời gian ngắn ngủi như vậy. Nhà ngươi cứ hạ trại tại đây, ta sẽ cho mang tới đầy đủ các thứ vật dụng và lương thực, thực phẩm cho ngươi và cho cả đoàn sứ bộ. Tất cả đều được mau chóng thực hiện.
+
+Nhà vua vừa về tới Samarcande thì các thứ ùn ùn đưa tới: thức ăn, đồ uống với số lượng lớn lại thêm bao nhiêu là những tặng vật quí có giá trị cao.
+
+Trong lúc đó, vua Schahzenan chuẩn bị lên đường, xử lý mau chóng các sự vụ còn tồn đọng, thành lập một hội đồng để cai trị đất nước trong thời gian đi vắng và đặt một vị đại thần tin cậy đứng đầu hội đồng đó. Trong vòng mười ngầy, mọi việc xong xuôi, nhà vua tạm biệt hoàng hậu, rời Samarcanđe vào buổi chiều cùng với cả đoàn các quan hộ giá, đến nghỉ tại hành cung cạnh những chiếc lều trại của quan tể tướng. Nhà vua cùng vị sứ thần đàm đạo tới khuya. Rồi, muốn một lần nữa nói lời tạm biệt với hoàng hậu mà chàng hết lòng yêu thương, nhà vua một mình quay lại cung điện. Chàng đi thẳng tới hậu cung. Hoàng hậu không ngờ nhà vua lại trở về bất ngờ như thế nên trước đó đã đón tiếp trên giường mình một viên quan hầu hạng bét trong nội cung. Chắc hẳn chúng đã nằm với nhau rất lâu rồi nên lúc này chúng ngủ say như chết.
+
+Nhà vua nhẹ bước đi vào, rất thích thú là sẽ làm cho hoàng hậu mà nhà vua cho là yêu thương mình rất mực phải ngạc nhiên về sự trở về của mình. Nhưng biết bao sửng sốt, khi dưới ánh sáng những bó đuốc chẳng bao giờ tắt trong đêm tối ở những ngôi nhà của các ông hoàng bà chúa, nhà vua nhìn thấy một tên đàn ông nằm gọn trong cánh tay hoàng hậu. Ông đứng lặng người một lát không dám tin vào những gì mình thấy. Nhưng, chẳng còn nghi ngờ gì nữa.
+
+- Sao? - Chàng tự nhủ - Ta vừa mới ra khỏi cung điện, và hãy còn ở dưới chân thành Samarcande mà người ta đã đám làm nhục ta? A, quân khốn kiếp. Tội ác của các ngươi không thể không bị trừng phạt! Là vua, ta phải trừng trị những sai trái xảy ra trong đất nước; là người chồng bị phản bội, ta phải xé xác ngươi để hả lòng căm giận chính đáng của ta.
+
+Và rồi, vị vua bất hạnh này, không kìm được cơn giận xung thiên, rút kiếm ra, tiến đến gần chiếc giường ngự, chỉ bằng một nhát, đưa đôi gian phu dâm phụ từ giấc ngủ đến cái chết nhục nhã. Rồi lần lượt chàng thẩy xác chúng qua cửa sổ, rơi xuống hào sâu bao bọc xung quanh.
+
+Trừng trị xong lũ đốn mạt, chàng ra khỏi kinh thành, lặng lẽ cũng như lúc về và lui vào hành cung. Rồi ngay lập tức chàng ra lệnh cuốn lều trại lên đường. Chuyện vừa xảy ra, chàng chẳng nói với một ai. Tất cả đều đã sẵn sàng, trời chưa sáng rõ, đoàn người khởi hành trong tiếng trống chiêng rộn rã làm toàn dân náo nức, trừ nhà vua. Vị hoàng đế này, đầu óc luôn bị cái cảnh phản bội của hoàng hậu ám ảnh, suốt trong cuộc hành trình luôn âu sầu phiền muộn.
+
+Khi gần tới kinh thành đất nước Ấn Độ, nhà vua thấy hoàng đế Schahriar thân chinh cùng cả triều thần ra đón. Làm sao tả được niềm vui gặp gỡ của hai vị vua anh em này! Họ đều nhảy xuống ngựa để ôm chầm lấy nhau và sau khi đã thể hiện muôn ngàn dấu hiệu của tình cảm thương mến đậm đà họ lại lên ngựa và cùng đi vào thành trong những tiếng hoan hô vang dội của dân chúng tập trung đông vô kể. Hoàng đế dẫn nhà vua tới tận biệt điện đã chuẩn bị sẵn đành cho vua em. Cung điện này thông sang cung điện của hoàng đế Schahriar qua một mảnh vườn chung dùng làm nơi tổ chức các hội lễ, các cuộc vui chơi của triều đình. Và nhân dịp này khu vườn còn được trang trí thêm nhiều thứ vô cùng tráng lệ.
+
+Schahriar hãy tạm chia tay với quốc vương xứ Tartarie để chàng tắm rửa và thay áo quần, nhưng ngay sau đó, hoàng đế đã tìm gặp lại em. Hai người cùng ngồi trên tràng kỷ, những cận thần đều kính trọng lùi ra xa. Hai vị quốc vương gắn bó với nhau không những vì tình cảm thân thương mà còn vì cùng huyết thống, được tự do dốc bầu tâm sự cho bỏ thời gian dài xa cách. Hai anh em cùng nhau dùng bữa tối rồi lại tiếp tục chuyện trò mãi đến lúc Schahrlar thấy đêm sắp tàn mới rút về hậu cung để em được nghỉ ngơi.
+
+Vị vua em bất hạnh đi nằm. Nhưng lúc cùng vua anh đàm đạo, nỗi buồn có nguôi ngoai đôi chút thì lúc này lại khơi dậy mạnh mẽ. Lẽ ra phải thoải mái nghỉ ngơi để phục hồi sức khoẻ thì tâm trí chàng lại bị giày vò dữ dội. Hình ảnh phản bội bẩn thỉu của hoàng hậu hiện lên rõ mồn một trong trí nhớ làm tâm can chàng sôi sục. Rồi, không sao ngủ được, chàng ngồi lên, chìm đắm trong những ý nghĩ đau buồn. Nét ủ rũ của chàng hiện rõ trên khuôn mặt khiến vua anh trước đó cũng nhận thấy phải tự hỏi: “Quốc vương Tartarie làm sao thế nhỉ? Kẻ nào đã làm cho chú ấy phải rầu lòng? Phải chăng ta đã đón tiếp chú ấy không được chu đáo? Không, ta đã coi chú ấy như một người em mà ta vô cùng yêu mến, về khoản này thì ta thấy ta chẳng có gì đáng chê trách. Có thể em ta vì tạm xa cách đất nước và hoàng hậu, vợ chú ấy mà có tâm trạng nhớ nhung chăng? Ồ, nếu có phải vì thế mà em ta buồn thì ta sẽ trao ngay những tặng phẩm đã đành cho chú ấy, để bất cứ lúc nào muốn là chú ấy có thể lên đường trở về Samarcande!". Và ngay ngày hôm sau ông gửi cho chàng một phần những tặng vật đó gồm những đồ quí hiếm thật độc đáo. Ngoài ra, hàng ngày, nhiều trò du hí được tổ chức để làm cho chàng nguôi vơi buồn nhớ. Nhưng những cuộc vui huy hoàng nhất, tráng lệ nhất cũng chẳng làm chàng khuây khoả mà lại càng như khơi gợi mối u buồn sâu sắc.
+
+Một hôm hoàng đế Schahriar hạ lệnh mở một cuộc săn lớn trong một vùng có nhiều hươu nai cách kinh thành hai ngày đường. Quốc vương Schahzenan xin cho được miễn tham gia, viện cớ không được khoẻ. Hoàng đế chiều lòng để cho vua em được tự do, rồi cùng với cả triều thần lên đường giải trí. Sau khi vua anh đi rồi, quốc vương xứ đại Tartarie còn lại một mình, lui vào phòng riêng khép kín cửa lại. Chàng ngồi bên cửa sổ trông ra vườn ngự uyển. Khu vườn tráng lệ đầy tiếng chim hót này đáng lẽ làm cho chàng vui thích nếu còn có khả năng cảm thụ, nhưng luôn bị vò xé vì cái kỷ niệm não lòng về hành vi thất tiết của hoàng hậu nên chàng chẳng chú ý gì đến khu vườn mà luôn ngước mắt nhìn lên cao để than thầm cho số phận.
+
+Nhưng, dù bị nỗi đau chi phối tới bao nhiêu, chàng cũng không sao không để mắt tới một sự kiện khác thường nó thu hút tất cả sự chú ý của chàng. Một cánh cửa bí mật bên cung điện của hoàng đế bỗng mở toang và từ đó lần lượt đi ra hai mươi người phụ nữ, giữa họ là hoàng hậu mà cung cách đi đứng làm ta rất dễ nhận biết. Hoàng hậu cho là quốc vương xứ Đại Tartarie cũng đã cùng đi săn với hoàng đế chồng mình nên đã bước đi một cách thật mạnh dạn tới tận gần cửa sổ phòng riêng của quốc vương em chồng. Quốc vương vì tò mò muốn biết cái gì sẽ xảy ra nên đã lui vào một chút để không bị nhìn thấy nhưng mình thì vẫn trông rõ mồn một cảnh ngoài vườn. Chàng nhận thấy bọn người tháp tùng hoàng hậu bắt đầu bỏ các tấm mạng tới lúc đó vẫn còn che mặt và cởi cả những áo dài khoác bên ngoài những bộ y phục ngắn. Nhưng chàng vô cùng kinh ngạc thấy đám người mà chàng tưởng toàn là phụ nữ thì lại có mười người con trai da đen, mỗi người ôm lấy người tình của mình. Về phần hoàng hậu cũng chẳng muốn chờ đợi lâu vội vỗ mạnh bàn tay và gọi to: “Masoud! Masoud!”. Và ngay lập tức một tên đàn ông da đen khác tụt từ trên một cây cao xuống, vội chạy đến với nàng.
+
+Sự ngượng ngùng không cho phép ta kể lại tất cả những gì đã xảy ra giữa những người đàn bà và lũ đàn ông da đen này, đó là những chi tiết chẳng đáng quan tâm, chỉ biết là Schahzenan, mắt nhìn thấy cơ sự đó, nhận ra là hoàng đế anh mình cũng bất hạnh chẳng kém gì mình. Cuộc hoan lạc của đám người dâm loạn này kéo dài mãi tới nửa đêm. Cả bọn còn nhảy xuống cái hồ lớn vốn rất sạch đẹp trong vườn ngự uyển để tắm táp rồi sau đó mặc lại quần áo và biến mất sau cánh cửa bí mật của hoàng cung. Còn Masoud từ bên ngoài trèo qua tường để vào vườn thì lại đi ra bằng lối đó.
+
+Vì tất cả những cảnh trên đây đều diễn ra trước mắt vị quốc vương xứ Đại Tartarie nên làm cho chàng suy nghĩ rất nhiều: “Ta thật là nông nổi - Chàng tự bảo - Đã cho là mình vô cùng bất hạnh? Đó chẳng qua là số mệnh khó lòng tránh khỏi của tất cả những ông chồng, ngay cả hoàng đế anh ta, vua của biết bao nhiêu quốc gia, chúa tể của toàn thiên hạ cũng còn không tránh khỏi kia mà. Đã là số mệnh thì can chi ta lại quá yếu đuối mòn mỏi trong phiền não u sầu? Thế là xong: hồi ức của một sự bất hạnh riêng từ nay không thể lũng đoạn cuộc sống yên bình của ta.”. Quả vậy, từ lúc đó chàng chẳng còn thấy quá khổ đau phiền muộn. Chàng đã chẳng thiết gì ăn uống nếu không được mục kích tất cả những gì xảy ra dưới cửa sổ phòng mình; lúc này chàng đòi ăn và ăn ngon miệng hơn cả kể từ ngày rời Samarcande, và còn lấy làm thích thú nghe những lời ca điệu nhạc du dương hoà tấu trong bữa ăn của chàng.
+
+Những ngày tiếp theo, chàng hoàn toàn bình thản và khi biết hoàng đế anh từ cuộc đi săn đã trở về, chàng đi tới vui vẻ chúc mừng. Thoạt đầu, Schahriar chưa chú ý gì đến sự thay đổi này mà chỉ phàn nàn tiếc là quốc vương em đã bỏ lỡ cuộc săn thú vị và không để cho em kịp thanh minh, ông khoe đã săn bắt được một số lượng lớn hươu nai và các con thú khác cùng với sự vui thích được hưởng trong cuộc săn. Schahzenan chăm chú nghe rồi bắt đầu lên tiếng. Vì không còn nỗi buồn rầu ám ảnh làm thui chột cả trí thông minh sắc sảo, chàng nói năng thật hoạt bát lanh lợi và đầy tính trào lộng.
+
+Đinh ninh em mình vẫn ủ rũ như lúc tạm chia tay để lên đường đi săn, hoàng đế vô cùng hài lòng thấy chàng thật vui vẻ. Ông bảo:
+
+- Em ạ, ta cảm tạ trời đất đã làm cho em thay đổi tốt lành trong lúc ta không có mặt ở nhà. Ta thật là vui sướng, nhưng ta có một yêu cầu đối với em mong là sẽ được em đáp ứng.
+
+- Em lại có thể từ khước anh một điều gì ư? - Nhà vua xứ Tartarie đáp - Với Schahzenan này, anh có đủ quyền lực. Anh nói đi, em đang nóng lòng muốn biết anh muốn em phảị làm gì.
+
+- Từ khi em tới triều đình ta - Schahriar nói - Ta thấy em luôn luôn sầu muộn mà ta đã cố gắng xua đuổi bằng bao nhiêu trò vui chơi giải trí. Ta đã nghĩ là sự sầu muộn của em là do xa nhà, xa đất nước; ta cũng nghĩ là tình yêu chiếm phần lớn. Hoàng hậu ở Samarcande mà em đã lựa chọn ắt phải có một sắc đẹp tuyệt trần, có lẽ đó là nguyên nhân. Không biết là ta có bị nhầm trong sự suy đoán không, nhưng cũng phải thú thực là cũng vì thế mà ta chẳng muốn gặng hỏi sợ làm em chẳng vừa lòng. Thế mà, chưa một chút nhọc công nào chăm sóc, khi trở về ta lại thấy em vui vẻ nhất trần đời và tinh thần như đã được giải toả mọi nỗi ưu tư, nó đã làm vẩn đục cả vẻ vui tươi khoái hoạt của em. Hãy vui lòng nói cho ta rõ vì sao em hết sầu não buồn đau?
+
+Nghe vua anh nói vậy, quốc vương xứ Đại Tartarie trầm lặng một lát như để suy nghĩ lời đáp. Rồi chàng nói:
+
+- Anh là hoàng đế và cũng là người chủ của em, xin anh hãy miễn cho việc phải đáp ứng điều anh đòi hỏi, em van xin anh đấy.
+
+- Không, em của ta - Hoàng đế nói - Em phải chiều ta. Ta mong muốn như vậy, chớ khước từ ta nữa.
+
+Schahzenan không thể cưỡng lại sự gặng hỏi của Schahriar, đành nói:
+
+- Vậy thì, anh của em? Vì anh đã ra lệnh, em đành phải làm theo ý muốn của anh thôi.
+
+Rồi chàng kể lại sự phản bội, thất tiết của hoàng hậu Samarcanđe. Kể xong, chàng nói:
+
+- Đó là nguyên nhân nỗi buồn đau của em. Phải chăng là em đã sai lầm khi để cho nỗi buồn đó chi phối?
+
+- Ôi, em của tôi? - Hoàng đế kêu lên bằng giọng nhuốm vẻ thông cảm với nỗi buồn giận của quốc vương xứ Tartarie - Câu chuyện em vừa kể ta nghe mới khủng khiếp làm sao? Phải kiên nhẫn tới chừng nào ta mới nghe được tới cuối câu chuyện! Ta khen ngợi em đã trừng trị thích đáng những tên phản trắc đã xúc phạm em thật nặng nề. Không ai có thể trách cứ hành động đó: em đã xử sự thật công minh. Còn ta, thú thực nếu ở địa vị của em, có lẽ ta sẽ chẳng được chừng mực như thế đâu: Cắt đi mạng sống chỉ của một người đàn bà, đối với ta chưa đủ đâu. Ta nghĩ là có thể hàng ngàn đứa phải mất đầu trong cơn điên giận của ta kia. Ta không ngạc nhiên về nỗi buồn của em; nguyên nhân thật quá đắng cay, quá tủi nhục lẽ nào chẳng làm cho em ta suy sụp. Trời! Thật là đa đoan! Không, ta tin là chuyện đó chẳng còn có thể xảy ra với ai như đã xảy ra với em. Nhưng ta cũng phải đội ơn Thượng đế là đã cho em niềm an ủi mà ta tin là có căn cứ vững chắc. Vậy thì em hãy vui lòng cho ta biết đi, hãy cùng ta cạn dòng tâm sự.
+
+Schahlenan thấy vô cùng khó khăn đáp ứng điều này hơn điều đã nói về mình vì đây lại liên quan tới người anh, nhưng cũng đành phải nhượng bộ vì những lời khẩn thiết của ông.
+
+- Em xin phục tùng - Chàng nói - Vì anh đã kiên quyết muốn biết rõ nguyên nhân. Em sợ là sự phục tùng của em sẽ gây cho anh nhiều phiền muộn mà trước đây em đã phải chịu. Nhưng anh chỉ tự trách được mình thôi vì chính anh đã buộc em phải tiết lộ ra một chuyện mà em đang muốn chôn vùi trong lãng quên vĩnh viễn.
+
+- Điều em nói đó - Schahriar ngắt lời em - Lại càng làm ta háo hức muốn biết. Hãy mau hé mở cho ta tấm màn bí mật đó đi, muốn ra sao thì ra.
+
+Vua xứ Tartarie không còn đất để lùi nữa, đành phải thuật lại tất cả những gì chàng trông thấy về sự cải trang của những tên da đen, về sự dâm loạn của hoàng hậu và các thị nữ của bà và chàng không quên nói đến cái tên Masoud.
+
+- Sau khi chứng kiến tất cả những cảnh xấu xa nhơ bẩn đó - Chàng nói tiếp - em nghĩ là tất cả đàn bà đều như thế cả thôi, họ khó có thể cưỡng lại được dục vọng. Em như được cảnh tỉnh, thấy ra là: đối với một trang nam nhi thật là quá hèn yếu nếu để cho sự an bình của mình phụ thuộc vào lòng chung thuỷ của họ: ý nghĩ này đưa em đến nhiều suy tư khác và cuối cùng em thấy là không gì tốt hơn là tự mình an ủi mình. Khó khăn thật đấy, nhưng em đã thành công. Nếu tin em thì anh hãy làm như em vậy.
+
+Mặc dù lời khuyên đó thật là khôn ngoan đúng mực, nhưng hoàng đế không thể chấp nhận mà còn nổi giận đùng đùng:
+
+- Sao? - Ông thét lên - Chánh cung hoàng hậu của đất nước Ấn Độ rộng lớn mà lại sa đoạ tới mức đê nhục đó ư? Không, em ạ - Ông thêm - Ta không thể tin được những gì em đã nói nếu ta không được nhìn thấy tận mắt. Chắc là em đã nhìn nhầm đấy thôi. Sự việc nghiêm trọng đáng để cho ta phải tự mình khẳng định.
+
+- Anh ạ - Schahzenan nói - Nếu anh muốn mục kích cũng chẳng có gì khó khăn lắm đâu. Anh chỉ việc tổ chức một cuộc đi săn mới. Khi chúng ta đã ra ngoài kinh thành cùng với các triều thần cả của anh và của em, chúng ta sẽ dừng lại ở hành cung và đến đêm cả hai anh em ta sẽ trở về nơi biệt điện dành cho em. Em đoán chắc là ngày hôm sau anh sẽ thấy tất cả những gì em đã thấy.
+
+Hoàng đế tán thành kế hoạch đó và lập tức ra lệnh tổ chức một cuộc đi săn mới, vì vậy các lều trại lại được dựng lên nơi đã được qui định.
+
+Ngày hôm đó cả hai vị vua lên đường cùng với cả hai đoàn tuỳ giá. Họ tới nơi đã định trước và ở đó cho tới đêm. Lúc bấv giờ Schahriar cho đòi tể tướng tới và chẳng cần cho biết ý đồ của mình, ra lệnh cho ông này tạm quyền và không được để bất cứ người nào ra khỏi trại với bất cứ lý do gì. Ra lệnh xong, quốc vương xứ Đại Tartarle cùng với hoàng đế lên ngựa, bí mật rời khỏi trại, đi về kinh thành, tới hoàng cung, vào cung điện dành cho Schahzenan. Họ đi ngủ và ngày hôm sau, sáng tinh mơ, họ tới ngồi kín đáo bên cửa sổ, nơi mà quốc vương Tartarie đã nhìn thấy cảnh bọn đa đen giở trò dâm loạn. Họ cùng hưởng một lát không khí mát mẻ của buổi ban mai vì lúc đó mặt trời chưa lên; và vừa khẽ trao đổi chuyện trò vừa thi thoảng liếc mắt sang chiếc cửa bí mật bên kia khu vườn ngự uyển. Cuối cùng, cửa mở và chuyện xảy ra tương tự, hoàng hậu xuất hiện cùng đám thị nữ với mười tên da đen cải trang; mụ kêu tên Masoud và hoàng đế nhìn thấy tất cả những gì đã làm nên nỗi nhục nhã và sự bất hạnh của mình.
+
+- Ôi Thượng đế! - Ông kêu lên - Nhục nhã biết chừng nào! Kinh tởm biết chừng nào! Vợ của một ông vua như ta đây sao lại có thể sa đoạ đê tiện tới mức ấy? Sau sự ô nhục này, còn có vị hoàng đế nào dám khoe khoang là mình hạnh phúc hoàn toàn nữa không? Ôi, em của ta! - Ông ôm lấy quốc vương Tartarie và nói tiếp - Chúng ta hãy từ bỏ tất cả các thứ trên thế giới này, thiện tâm thiện ý đâu còn; xu nịnh đi đôi với phản trắc. Hãy từ bỏ tất cả đất đai sông núi và tất cả sự phù hoa hào nhoáng quanh ta. Chúng ta hãy cùng đi tới những xứ sở xa lạ kéo dài một cuộc sống tối tăm và giấu biệt đi nỗi bất hạnh khổ ải của chúng ta.
+
+Schahzenan không đồng tình với quyết định đó nhưng chàng chẳng dám đấu tranh vì thấy anh mình còn đang trong cơn nóng giận sục sôi.
+
+- Anh của em - Chàng nói - Em cũng không có ý kiến gì khác anh đâu. Em sẵn sàng đi theo anh bất cứ nơi nào anh muốn, nhưng xin anh hãy hứa với em là chúng ta sẽ trở về nếu được gặp một người nào đó còn khổ sở hơn cả chúng ta nữa.
+
+- Anh hứa - Hoàng đế đáp - Nhưng ta nghĩ là chúng ta sẽ chẳng tìm thấy một ai như thế cả đâu.
+
+- Em chưa đồng tình với anh ở chỗ đó - Quốc vương Tartarie phản bác - Có thể là chúng ta chẳng phải đi lâu đâu.
+
+Rồi họ bí mật rời hoàng cung và đi bằng con đường khác với lúc đi về. Họ đi, đi mãi chừng nào ánh sáng còn cho họ thấy rõ con đường, và đêm đầu tiên họ ngủ dưới bóng cây. Dậy từ sáng sớm, họ lại tiếp tục đi cho đến lúc tới một bãi cỏ xanh rờn bên bờ biển mà ở đó từng quãng từng quãng một có những cây to cành lá rậm rạp. Họ ngồi dưới một trong các cây đó để nghỉ ngơi và hóng mát. Sự bội phản và thất tiết của các hoàng hậu lại là đề tài của cuộc chuyện trò tâm sự.
+
+Chưa được bao lâu thì chợt họ nghe thấy ngay cạnh họ một tiếng động khủng khiếp về phía biển và tiếp theo đó là những tiếng kêu thất thanh làm họ run sợ. Mặt biển bỗng mở ra và dâng lên một cái cột đen khổng lồ cao chạm đến các tầng mây. Cái vật lạ này làm cho họ kinh hoảng khiếp vía, vội bật đậy, lanh lẹn leo lên cây, trèo thật cao, theo họ thì đó là chỗ ẩn nấp thích hợp nhất. Vừa mới lên vị xong, họ ngoảnh lại nơi vừa phát ra tiếng động làm cho mặt biển như mở ra đó liền thấy cái cột đen từ từ rẽ nước tiến vào bờ. Lúc đầu họ không thể phân biệt được đó là cái gì, nhưng chẳng mấy chốc đã trông thấy rõ ràng.
+
+Đó là một trong các hung thần tinh ma độc ác, là những kẻ tử thù của loài người. Hắn đen đủi và xấu xí, có thân hình của một người khổng lồ cao to lừng lững, đội trên đầu một cái hòm thuỷ tinh có nắp đóng lại bằng bốn chiếc khoá thép. Hắn đi vào bãi cỏ và đặt cái hòm đúng chỗ gốc cây, cái cây mà hai anh em nhà vua vừa trèo lên nấp. Hai anh em cảm thấy nguy hiểm cùng cực, tưởng là phen này thì đi đứt.
+
+Tuy vậy hung thần chỉ từ từ ngồi xuống cạnh chiếc hòm, rút chùm chìa khoá dắt ở thắt lưng lần lượt mở hòm ra bằng bốn chiếc chìa. Ngay tức thì từ trong hòm bước ra một người đàn bà y phục lộng lẫy, thân hình thanh tú, đẹp tuyệt trần. Lão hung thần đặt nàng ngồi bên cạnh, say sưa ngắm người đẹp và nói.
+
+- Phu nhân của ta, một người đẹp hơn tất cả những người đẹp được mọi người chiêm ngưỡng ơi! Con người duyên dáng mà ta đã cướp đi giữa ngày hôn lễ, người mà ta luôn mãi yêu thương, nàng hãy cho ta ngủ một lát bên nàng; chính vì ta rất buồn ngủ nên đã tới đây để nghỉ ngơi một chút.
+
+Nói xong, hắn ngả cái đầu nặng nề của hắn lên đùi của nàng thiếu phụ. Rồi, duỗi thẳng đôi chân chạm tới mép biển, hắn ngủ tức thì. Tiếng ngáy của hắn vang dội cả một vùng biển.
+
+Người thiếu phụ tình cờ ngước mắt nhìn lên, trông thấy hai nhà vua tít trên gần ngọn cây, liền dùng tay ra hiệu bảo hai người xuống và đừng gây tiếng động. Hai chàng vô cùng sợ hãi khi thấy mình bị lộ. Cũng bằng dấu hiệu tay, họ xin miễn cho việc phải trèo xuống. Nhưng mà nàng, sau khi nhẹ nhàng nâng đầu lão hung thần trên đùi mình xuống đất, đứng lên khẽ bảo họ giọng sôi nổi:
+
+- Xuống đi nào! Nhất thiết các chàng phải xuống đây với em.
+
+Hai anh em gắng sức làm cho nàng ta hiểu, cũng bằng những cử chỉ, là rất sợ lão hung thần.
+
+- Nào thôi xuống đi! - Cũng vẫn bằng giọng khẽ khàng và sôi nổi, nàng nói như ra lệnh - Nếu các chàng không nghe lời em ngay, em sẽ đánh thức hắn đậy và tự em sẽ bảo hắn giết các chàng.
+
+Câu nói làm cho hai nhà vua sợ hãi, vội vàng nhưng rất thận trọng tụt xuống để khỏi làm lão hung thần thức giấc. Khi họ đã ở trên mặt đất, thiếu phụ nắm lấy tay hai người kéo đi và khi đã xa xa một chút, dưới hàng cây, nàng ta trơ trẽn bắt họ phải lần lượt chiều mình. Mới đầu hai người khước từ nhưng bị bắt buộc và đe doạ đủ điều nên đành phải làm theo. Sau khi đã được thoả mãn theo ý muốn, nhìn thấy các chàng đều có một chiếc nhẫn ở ngón tay, nàng ta đòi lấy. Khi đã nắm hai chiếc nhẫn trong tay, nàng ta lấy ra một cái hộp trong túi đựng đồ trang sức, kéo ra một sợi dây buộc những chiếc nhẫn khác đủ các loại, các kiểu, chỉ cho hai người và hỏi:
+
+- Các chàng có biết các nhẫn này có ý nghĩa gì không?
+
+- Không - Họ đáp - Nhưng chắc là nàng sẽ cho chúng tôi biết chứ.
+
+- Đó là những chiếc nhẫn của tất cả những người đàn ông đã cùng em ân ái - Nàng thản nhiên nói - Đã có chín mươi tám chiếc đã đếm kỹ mà em giữ làm kỷ niệm. Em đòi nhẫn của hai chàng cũng là với ý ấy và để cho tròn một trăm. Như vậy - Nàng nói tiếp - Tính tới hôm nay là em đã có tròn một trăm tình nhân, dù có sự canh giữ ráo riết và sự đề phòng cẩn mật của cái lão hung thần xấu như ma kia lúc nào cũng giam riết lấy em trong cái hòm thuỷ tinh khoá kín, nhưng dù có cất giấu em dưới đáy biển, em vẫn thoát được ra ngoài sự kiểm soát của lão. Các chàng hẳn thấy rõ là khi một người đàn bà đã có một ý định gì thì không một người chồng nào, một tình nhân nào có thể ngăn cản được. Tốt hơn là người đàn ông chẳng nên ép buộc và cưỡng bách đàn bà, có thế thì người đàn bà mới có thể trở nên người tiết hạnh.
+Nói đoạn, người thiếu phụ xâu hai chiếc nhẫn vào cùng một dây với những chiếc nhẫn khác. Rồi nàng ngồi vào chỗ cũ, nhẹ nhàng nâng đầu lão hung thần vẫn ngủ say lên đùi mình, rồi ra hiệu cho hai chàng đi.
+
+Hai nhà vua trở lại con đường đã đi tới và khi khuất tầm nhìn của người thiếu phụ và lão hung thần, Schahriar bảo Schahzenan:
+
+- Này em? Em nghĩ gì về chuyện vừa xảy ra với chúng ta? Phải chăng lão hung thần đã có một cô tình nhân thật là chung thuỷ? Và em có công nhận với anh là không gì có thể sánh được với sự tinh ma quỉ quái của đàn bà?
+
+- Thưa anh, đúng như vậy - Quốc vương xứ Đại Tartarie đáp - Và chắc anh cũng phải nhất trí với em là lão hung thần thật đáng được phàn nàn vì còn bất hạnh hơn cả chúng ta. Vậy là chúng ta đã thấy điều đang muốn tìm kiếm. Hãy trở về thôi anh ạ và chuyện này cũng chẳng có gì ngăn cản chúng ta trong hôn phối. Với em, em đã biết cách giữ trọn niềm tin của mình như thế nào. Lúc này, em chưa muốn nói ra đây nhưng rồi anh sẽ biết tin và chắc chắn là anh cũng sẽ làm theo như em.
+
+Hoàng đế tỏ vẻ đồng tình và tiếp tục cùng em rảo bước. Họ về tới nơi hạ trại vào cuối đêm thứ ba kể từ ngày đi.
+Tin hoàng đế trở về được loan báo, các đại thần tề tựu từ sáng sớm trước hành cung. Nhà vua với họ vào, vui vẻ tiếp đón họ khác hẳn ngày thường và tặng thưởng cho tất cả mọi người. Sau đó nhà vua tuyên bố chẳng muốn đi xa hơn nữa, lệnh cho họ lên ngựa, và chẳng mấy chốc về tới hoàng cung.
+
+Vừa đặt chân xuống đất, hoàng đế lập tức đến hậu cung bắt trói ngay hoàng hậu, trao cho tể tướng đem đi xứ giáo. Viên đại thần nầy lập tức thi hành cũng chẳng hỏi xem bà ta đã phạm tội gì. Vị hoàng đế đang cơn giận dữ không chỉ bằng lòng có thế, ông tự tay mình chặt đầu tất cả những thị nữ của hoàng hậu. Sau sự trừng phạt nghiêm khắc đó, đinh ninh là trên đời này chẳng có một người đàn bà nào tiết hạnh, nhà vua quyết định mỗi tối lấy một vợ, ngủ với người đó và sáng ra thì đem đi thắt cổ để tránh cho người đàn bà này khỏi có hành động phản bội, thất tiết với mình. Đặt ra cái luật ác độc nghiệt ngã đó rồi, hoàng đế thề là sẽ thi hành ngay sau khi quốc vương Tartarie lên đường về nước. Chẳng bao lâu vua em cũng từ biệt anh lên đường mang theo nhiều tặng vật quí hiếm và sang trọng. Schahzenan đi rồi, Schahrlar tức thì lệnh cho tể tướng đưa đến cho mình cô con gái của một trong các võ tướng của triều đình. Tể tướng tuân lệnh. Hoàng đế ngủ với cô gái đó và sáng hôm sau trao lại cho tể tướng mang đi xử tử, đồng thời truyền cho kiếm một cô gái, con một vị đại thần khác cho tối tiếp theo. Dù bất bình và khổ tâm đến đâu khi phải thi hành những mệnh lệnh như thế, tể tướng vẫn phải nhắm mắt phục tùng. Ông đưa tới cho hoàng đế con gái của một võ quan cấp dưới mà hôm sau người ta lại đưa đi hành quyết. Sau cô gái này đến lượt con gái của một nhà giàu trong kinh thành và cứ như vậy mỗi ngày có một trinh nữ lấy chồng và một người vợ đi sang thế giới bên kia.
+
+Tiếng đồn của hành động tàn bạo chưa từng có đó đã gây nên một sự kinh hoàng khắp chốn kinh thành. Vang lên khắp nơi tiếng kêu la, than khóc: nơi này là một người cha chan hoà nước mắt trong tuyệt vọng vì mất đứa con gái yêu; chỗ kia là những bà mẹ hiền lành, rên rỉ thảm thiết sợ con gái mình rồi cũng sẽ rơi vào số phận bi thương như thế. Vì vậy, thay vào những lời ngợi ca và chúc phúc mà vị hoàng đế thường nhận được từ trước đến nay là những tiếng trách oán của muôn dân.
+
+Vị tể tướng mà chúng ta đã biết, ngoài ý muốn của mình đã phải thi hành một lệnh bất công khủng khiếp.Ông này cũng có hai cô con gái: cô chị là Scheherazade và cô em là Dinarzade.
+
+Tài sắc cô em cũng chẳng thua kém gì chị, nhưng lòng can đảm của cô chị thì vượt hơn hẳn mọi người và trí thông minh thì vô cùng sắc sảo. Nàng đọc sách rất nhiều và có một trí nhớ lạ kỳ. Tất cả những gì đã đọc đều ghi sâu trong óc. Nàng đặc biệt có năng khiếu về các lĩnh vực triết học, y học, sử học và mỹ thuật. Nàng làm thơ có hồn hơn cả các nhà thơ nổi tiếng đương thời. Ngoài ra, nàng còn có một sắc đẹp lộng lẫy và một đức hạnh kiên trinh bao trùm lên tất cả những tài hoa đó.
+Tể tướng yêu thương rất mực người con gái thực xứng đáng với tình cảm cao đẹp của mình. Một hôm, trong cuộc chuyện trò của hai cha con, nàng nói:
+
+- Cha ơi, con có một điều muốn cầu xin. Con thiết tha mong được cha cho phép.
+
+- Cha chẳng bao giờ từ chối con điều gì - Ông nói - Miễn là điều con cầu xin phải chính đáng và hợp lẽ phải.
+
+- Là chính đáng - Scheherazađe thưa - Thưa cha, không có gì chính đáng hơn. Cha có thể xét nguyên cớ nó bắt con phải cầu xin cha. Ý đồ của con là muốn ngăn chặn hành vi man rợ của hoàng đế đối với các gia đình trong kinh thành này. Con muốn làm tiêu tan nỗi lo chính đáng mà bao bà mẹ đang chịu đựng là mất con gái mình một cách bi thảm.
+
+- Con gái ơi, ý định của con thật vô cùng đáng khen - Tể tướng nói - Nhưng tai hoạ mà con muốn hoá giải thì cha thấy có thể là vô phương con ạ. Con định liệu thế nào để có thể làm được đến nơi đến chốn?
+
+- Cha ạ - Scheherazade nói - Vì qua sự sắp đặt của cha mà hoàng đế mỗi ngày lại làm một cuộc hôn nhân mới, con xin cha, với tấm lòng yêu thương con gái, cha hãy tạo cho con cái vinh hạnh được hầu hạ đức vua...
+Vị tể tướng không sao ngăn được sự kinh hãi khi nghe những lời trên đây của con gái.
+
+- Ôi Chúa ơi? - Ông giận dữ ngắt lời con - Con điên rồi hay sao đấy? Sao con lại có thể cầu xin ta một điều dại dột nguy hiểm như vậy? Chắc con cũng biết là nhà vua đã thề độc là chỉ ân ái một đêm với chỉ một người đàn bà rồi sẽ giết đi ngay ngày hôm sau, thế mà con còn xin cha cho được làm vợ Người ư? Con có nghĩ là sự nông nổi bộp chộp sẽ đưa mình đến đâu không?
+
+- Có, thưa cha - Cô gái đức hạnh đáp - Con biết tất cả sự hiểm nguy mà con dấn thân vào, nhưng con chẳng sợ. Nếu con chết đó là cái chết vinh quang và nếu thành công thì con đã phục vụ cho đất nước một công tích quan trọng.
+
+- Không - Tể tướng nói - Dù con có cố sức trình bày để ta mềm lòng cho phép con dấn thân vào vòng hiểm nguy ghê gớm này, đừng tưởng rằng ta bằng lòng đâu nhé. Khi hoàng đế ra lệnh cho ta phải cắm mũi dao nhọn sắc vào tim con, than ôi! Nhất định ta phải tuân theo rồi: đau đớn sao cái công việc của một người cha! Ôi! Nếu con không chút nào sợ cái chết, thì ít nhất cũng tránh cho cha nỗi đau xé ruột khi thấy bàn tay mình nhuốm máu con gái yêu thương của chính mình.
+
+- Một lần nữa, thưa cha - Scheherazade nói – Xin người hãy gia ân đáp ứng lời cầu xin của con.
+
+Cuối cùng, người cha trước sự kiên quyết của con gái, đành phải nhượng bộ trước những lời khẩn cầu tha thiết của cô. Và hết sức não lòng vì không làm được cho con gái từ bỏ một quyết định khốc hại, ông tới bệ kiến Schahriar và tâu cho nhà vua biết đêm sau ông sẽ đưa tới cho Người nàng Scheherazade, con gái ông.
+
+Hoàng đế vô cùng ngạc nhiên về sự hy sinh của vị đại thần thân cận của mình. Ông bảo:
+
+- Làm sao mà nhà ngươi lại có thể quyết định đưa chính con gái ngươi đến cho ta?
+
+- Tâu bệ hạ - Tể tướng đáp - Chính con gái thần đã tự nguyện. Số phận bi thảm chờ nó cũng chẳng làm cho nó sợ hãi, mà chỉ muốn trong đời vinh dự được có một đêm làm vợ đấng Chí tôn.
+
+- Nhưng, Tể tướng, mong nhà ngươi cũng chớ có nhầm tâm - Hoàng đế nói - là sáng mai, lúc trao trả Scheherazade vào trong tay nhà ngươi, ta muốn là ngươi phải giết nàng. Nếu làm sai, ta thề là sẽ tự tay ta xử tử nhà ngươi.
+
+- Tâu bệ hạ - Tể tướng lại nói - Lòng thần chắc chắn là xót đau vô hạn khi phảl tuân lệnh vua. Mặc dù vậy tấm lòng trung thành này với Người vẫn không hề bị chuyển lay.
+
+Schahriar nhận sự dâng hiến của tể tướng và bảo ông cứ đưa con gái tới khi nào cũng được.
+
+Vị quan đại thần này đưa tin về cho Scheherazađe. Nàng vui mừng đón nhận như một điều hạnh phúc nhất đời Nàng cảm ơn cha đã hết lòng ưu ái đối với nàng và khi thấy cha ảo não khổ đau, nàng nói để an ủi cha là ông sẽ không phải hối tiếc là đã gả nàng cho hoàng đế, ngược lại ông có thể lấy đó làm niềm vui hưởng thụ cho đến hết đời.
+
+Nàng chỉ còn nghĩ đến việc phải sửa soạn thật chu đáo để ra mắt đấng quân vương. Nhưng trước khi rời nhà để vào hoàng cung, nàng gọi riêng Dinarzađe ra và nói với em:
+
+- Em thân yêu của chị, chị cần sự giúp đỡ của em trong một vụ việc vô cùng quan trọng, chị xin em chớ có chối từ. Cha chúng ta sắp đưa chị vào hoàng cung để làm vợ nhà vua. Mong là tin này không làm em khiếp sợ. Hãy lắng nghe chị nói nhé. Khi chị đã vào trong cung, trước mặt hoàng đế chị sẽ xin Người cho em cũng được vào cung và ở cùng phòng để chị em mình được cùng nhau sum họp một đêm cuối cùng. Nếu được sự ân sủng như chị mong muốn đó thì em nhớ là sẽ đánh thức chị dậy vào lúc chỉ độ còn một tiếng đồng hồ nữa là trời sáng và nói với chị như thế này: “Chị của em ơi, nếu chị không ngủ nữa thì em xin chị, trong lúc chờ mặt trời lên chắc cũng chẳng còn bao lâu nữa, chị hãy kể cho em nghe một trong những câu chuyện thật hay mà chị biết”. Thế rồi chị sẽ kể cho em nghe một chuyện. Và chị tin rằng bằng cách này chị sẽ giải thoát cho toàn dân tình trạng kinh hoàng như hiện nay. Dinarzade trả lời chị là nàng sẽ vui lòng làm tất cả những gì mà chị nàng yêu cầu.
+
+Cuối cùng giờ ngủ đã tới. Ngài tể tướng đưa Scheherazade vào hoàng cung và rút lui ngay sau khi đã dẫn nàng tới tẩm phòng. Lúc nhà vua thấy chỉ còn mình với nàng, liền bảo nàng bỏ mạng che mặt. Nhà vua sững sờ say đắm thấy nàng quả là chim sa cá lặn, nhưng thấy nàng đầm đìa nước mắt bèn hỏi nguyên nhân.
+
+- Tâu bệ hạ - Scheherazade thưa - Thần thiếp có một em gái mà thiếp vô cùng yêu quí và cũng được em thiếp yêu quí như vậy. Thiếp mong ước là em thiếp cũng được qua đêm nay trong phòng ngự này để chị em được trông thấy nhau và để thiếp được nói với em một lần nữa lời vĩnh biệt. Bệ hạ có đồng ý cho thiếp có niềm an ủi bằng việc thể hiện với em lần cuối cùng tình chị em thân thiết đó không?
+
+Schahriar chấp thuận và cho đi tìm Dinarzade. Cô em mau chóng tới ngay. Hoàng đế cùng với Scheherazade nằm ngủ trên một cái bệ rất cao theo cung cách của các vua chúa phương đông. Còn Dlnarzade thì nằm trên một chiếc giường được đặt dưới thấp kê ngay bên bệ.
+
+Một tiếng đồng hồ trước khi trời sáng, Dinarzade thức giấc, không quên điều chị nàng căn dặn:
+
+- Chị thân yêu của em - Nàng khẽ kêu - Nếu chị không còn ngủ nữa thì em xin chị, trong lúc chờ mặt trời chẳng mấy chốc nữa sẽ nhô lên, hãy kể cho em nghe một trong những chuyện thật hay mà chị biết. Than ôi? Có thể đây sẽ là lần cuối cùng mà em có được niềm vui sướng đó.
+
+Scheherazade đáng lẽ trả lời em thì lại nói với hoàng đế:
+
+- Tâu bệ hạ, đấng chí tôn có vui lòng cho phép thần thiếp được thoả mãn lời yêu cầu của em thiếp chăng?
+
+- Ta vui lòng - Hoàng đế đáp.
+
+Thế rồi Scheherazađe bảo với em gái hãy lắng nghe và quay lại với Schahriar, nàng bắt đầu câu chuyện như sau.
+
+Tâu bệ hạ, ngày xưa có một ông lão đánh cá già nua, nghèo khổ đến nỗi không sao có thể nuôi sống được gia đình gồm một vợ và ba con nhỏ.
+
+Hàng ngày lão ra đi từ sáng sớm để đánh cá và tự đặt ra cái lệ là mỗi ngày chỉ quăng lưới bốn lần thôi.
+
+Một sáng còn rất sớm, trăng chưa lặn, lão đã ra tới bờ biển. Lão cởi áo ngoài và quăng lưới lần thứ nhất. Khi kéo lưới vào bờ, lão cảm thấy nặng tay. Chắc là có cá to đây, lão đã thầm phấn khởi, nhưng lát sau, tưởng lưới đầy cá, ngờ đâu đó chỉ là bộ xương của một con lừa. Lão vô cùng buồn bã...
+
+Tới đoạn này, Scheherazade ngừng lời vì nàng thấy trời đã rạng sáng.
+
+- Chị của em - Dinarzade nói - em phải thú thật là đoạn đầu câu chuyện này làm em thật thích thú, em chắc là đoạn tiếp theo sẽ rất hay.
+
+- Không gì đặc sắc hơn là chuyện ông lão đánh cá - Hoàng hậu nói - Em sẽ thấy vào đêm sau, nếu hoàng đế gia ân để chị còn sống.
+
+Vua Schahriar, tò mò muốn biết lão đánh cá đã kéo lưới được gì những lần sau nên chưa muốn hành quyết Scheherazade hôm đó. Vì thế ông đứng lên và chưa phát ra cái lệnh ác độc đó.
+
+- Chị thân yêu - Ngày hôm sau, vào giờ thường lệ, Dinarzade bảo chị - Trời đã sắp sáng, xin chị kể nốt cho em nghe chuyện ông lão đánh cá? Em muốn nghe quá đi mất.
+
+- Chị sẽ chiều em, em ạ - Hoàng hậu đáp.
+
+Và đồng thời nàng xin hoàng đế cho phép. Được nhà vua gật đầu rồi, nàng kể tiếp chuyện lão đánh cá như sau:
+
+- Tâu bệ hạ, buồn bã vì mẻ lưới hẩm hiu, sau khi vá lại những chỗ bị cái bộ xương lừa kia làm rách, lão quăng lưới lần thứ hai. Lúc kéo lên lão lại thấy khá nặng, tưởng như đầy một lưới cá nhưng buồn thay, đó chỉ là một cái thúng to chứa đầy bùn đất và sỏi đá. Lão buồn nản vô cùng. Lão kêu lên thảm thiết:
+“Ôi đấng thần tài? Hãy bớt nổi giận với ta và cho nên hành hạ một kẻ khốn khổ đã cầu xin Người khoang dung! Ta từ nhà đến đây kiếm sống mà Người lại muốn ta phải chết. Ta chẳng còn nghề nào khác ngoài nghề chài lưới để tồn tại và mặc dù đã hết lòng gắng công gắng sức ta cũng chẳng làm sao mà đáp ứng được những nhu cầu khẩn thiết của vợ con. Nhưng trách oán Người có thể ta đã sai lầm. Vì cái thói được hành hạ những người lương thiện và dìm họ vào trong bóng tối dày đặc là ý thích của Người. Mặt khác Người dung túng cho bao kẻ ác và đề cao những kẻ mà đức hạnh chẳng có gì đáng tin cậy".
+
+Than vãn xong, lão quẳng mạnh cái thúng đi, rửa sạch bùn đất bám vào lưới và quăng nó xuống nước lần thứ ba. Nhưng lão cũng chỉ kéo lên được nào là gạch đá, vỏ trai ốc, nào là rác rưởi. Không sao nói lên được niềm thất vọng của lão, chỉ chút nữa là lão có thể phát điên lên. Tuy nhiên, vì mặt trời cũng vừa ló rạng, lão không quên quỳ xuống cầu nguyện như một tín đồ ngoan đạo của Hồi giáo. Lão khấn nguyện thêm thế này:
+
+- Hỡi Thượng đế, Người đã biết rằng con chỉ quăng lưới bốn lần mỗi ngày. Con đã quăng ba lần rồi nhưng chẳng mang lại kết quả gì. Chỉ còn một lần cuối cùng, con xin được Thượng đế phù hộ trợ giúp cũng như Người đã trợ giúp Moise vậy.
+
+Khấn cầu như vậy xong, lão đánh cá quăng lưới lần thứ tư. Khi đoán là đã có cá vào lão kéo lên và cũng như các lần trước thấy khá nặng tay. Chẳng có con cá nào nhưng lão thấy một chiếc bình bằng đồng thau chắc là chứa cái gì đó nên nó rất nặng. Lão nhận thấy nút chiếc bình được niêm phong bằng chì có mang dấu ấn. Cái đó làm lão thấy vui vui, thầm nhủ:
+
+- Ta sẽ đem bán cho thợ đúc và tiền bán được ta sẽ mua một đấu lúa mì.
+
+Lão ngắm nghía chiếc bình, lắc lắc để nghe xem có tiếng gì của vật chứa bên trong không. Chẳng nghe thấy gì cả và trong trường hợp này, với dấu ấn trên chiếc nắp bằng chì lão nghĩ là chiếc bình này tất là phải chứa đầy vật quí. Để cho mọi việc rõ ràng, lão cầm lấy con dao và chẳng khó khăn gì, lão mở được nắp bình. Lão nghiên miệng bình xuống mặt đất, nhưng chẳng thẩy có gì lăn ra, điều này làm cho lão hết sức ngạc nhiên. Lão đặt cái bình trước mặt và trong lúc chăm chú ngắm nhìn thì từ miệng bình, một làn khói đầy đặc phụt lên khiến lão phải lùi ra sau hai ba bước.
+
+Làn khói này vươn cao chạm tới mây và lan toả ra trên mặt biển và bờ biển làm thành một đám lớn sương mù. Ta có thể tưởng tượng được cảnh tượng này đã làm cho lão đánh cá vô cùng sửng sốt. Khi tất cả làn khói đã thoát ra khỏi chiếc bình, nó tụ lại thành một khối hiện hình thành một hung thần to cao gấp đôi tất cả mọi người khổng lồ. Thấy hiện ra trước mắt mình một quái vật to lớn khủng khiếp lão đánh cá muốn sải chân chạy nhưng vì quá kinh hoàng, lão không thể nhích chân được một bước.
+
+- Salomon - Hung thần kêu lên - Salomon, đại tiên tri của Thượng đế. Xin tha lỗi, xin tha lỗi. Chẳng bao giờ ta làm trái ý Người. Ta sẽ tuân theo tất cả mệnh lệnh của Người...
+
+Scheherazade thấy ngày đã rạng bèn bỏ dở câu chuyện.
+
+Thế là Dinarzade nói:
+
+- Chị của em! Quả là chị chẳng sai lời. Câu chuyện này chắc hẳn là kỳ lạ hơn tất cả những câu chuyện khác.
+
+- Em ạ - Hoàng hậu đáp - Em sẽ được nghe những chuyện làm cho em còn hào hứng hơn nữa nếu hoàng đế, chúa của chị cho phép kể em nghe.
+
+Vua Schahriar rất muốn nghe nốt đoạn cuối chuyện ông lão đánh cá câu chuyện đã làm ông thích thú. Vì vậy ông lại cho lùi cái chết của hoàng hậu đến ngày hôm sau nữa.
+ 
+
+o O o
+Dinarzade, đêm hôm sau, đến giờ, lại gọi chị:
+
+- Chị của em, nếu chị không ngủ thì xin chị hãy kể nốt cho em nghe chuyện lão đánh cá trong lúc chờ trời sáng.
+
+Hoàng đế, về phía mình, cũng nóng lòng muốn biết có gì xảy ra giữa Salomon với tên hung thần này. Vì vậy Scheherazade tiếp tục câu chuyện về lão đánh cá:
+
+- Tâu bệ hạ, lão đánh cá vừa nghe thấy những lời tên hung thần thốt ra đã thấy đôi chút yên tâm. Lão hỏi: “Này, vị thần cao ngạo kia! Ngài nói gì vậy? Salomon, tiên tri của Thượng đế đã không còn tới nay là một ngàn tám trăm năm và chúng ta đang ở vào hồi tận cùng các thế kỷ. Hãy cho ta biết câu chuyện của Ngài. Vì sao lại bị nhốt trong cái bình này?”.
+
+Nghe lão đánh cá hỏi vậy, hung thần nhìn lão đầy vẻ kiêu căng, đáp:
+
+- Hãy ăn nói với ta cho có lễ độ. Mi dám cả gan gọi ta là vị thần cao ngạo ư?
+
+Lão đánh cá cãi lại:
+
+- Vậy thì để ăn nói với ngài cho có lễ độ, phải chăng tôi phải gọi ngài là con cú may mắn?
+
+- Ta đã bảo mi - Hung thần gắt - Phải nói năng cho có lễ độ trước khi ta giết mi.
+
+- Này, tại sao ngài lại muốn giết tôi - Lão đánh cá vặn lại - Phải nhớ là tôi vừa cứu sống ngài.
+
+- Không, ta không quên - Hung thần nói - Nhưng cái đó không ngăn ta giết mi và ta chỉ chiếu cố cho mi một điều duy nhất.
+
+- Đó là điều gì vậy? - Lão đánh cá hỏi.
+
+- Là mi chọn cái chết như thế nào ta sẽ chiều mi cho chết như thế - Hung thần đáp.
+
+- Nhưng tôi đã làm gì ngài nào? Có phải đó là cách ngài trả ơn người đã làm điều tốt cho ngài chăng?
+
+- Ta không thể làm khác được - Hung thần nói - Và để cho mi tin, hãy lắng nghe câu chuyện của ta:
+
+“Ta là một trong các thần linh đối kháng lại ý chí của Thượng đế. Tất cả các vị thần khác đều công nhận Salomon vĩ đại đấng tiên tri của Thượng đế và phục tùng Người. Duy nhất chỉ có Sacar và ta không muốn làm cái trò hèn hạ đó. Để trả hận, vị đế vương hùng mạnh này lệnh cho Assaf, con trai Barakhia, tể tướng đầu triều của ông đến bắt ta và điều ta đến trước ngai vàng, trước chúa tể của hắn. Salomon, con trai David, bắt ta rời bỏ cách sống riêng, công nhận uy quyền và chịu sự chỉ huy của ông ta. Ta hiên ngang không chịu, thà phải hứng tất cả sự thù ghét giận dữ còn hơn là phải thề thốt tuyệt đối trung thành và phục tùng vô điều kiện mà ông ta bắt buộc. Để trừng trị ta, ông ấy đã nhốt ta vào trong chiếc bình bằng đồng này. Và để chắc chắn là ta không thể phá vỡ để thoát ra, ông đã tự mình đóng niêm trên nắp chì dấu ấn khắc rõ đại danh Thượng đế. Xong, ông trao cho một vị thần được tin cậy với lệnh là ném ta xuống biển. Việc đó đã được thi hành với sự vô cùng nuối tiếc của ta. Suốt trong thế kỷ đầu trong chiếc bình tù ngục, ta đã nguyền nếu có ai đó giải thoát được ta, ta sẽ làm cho kẻ đó giàu có suốt đời, giàu có cả đến sau khi chết. Nhưng thế kỷ đầu trôi qua, chẳng có ai giúp ta cả. Sang thế kỷ thứ hai, ta thề là sẽ mở tất cả các kho của cải trên trái đất tặng cho người nào đem tự do đến cho ta, nhưng chẳng có may mắn gì hơn thế kỷ trước. Sang đến thế kỷ thứ ba, ta hứa là sẽ làm cho người nào giải thoát ta trở thành một đế vương hùng mạnh và luôn luôn ở bên cạnh, ta ban cho người đó mỗi ngày ba điều ước để có bất cứ cái gì. Nhưng thế kỷ này lại trôi qua như hai thế kỷ trước và ta thì vẫn cứ nguyên như thế. Cuối cùng ta hết sức hoang mang thất vọng hay đúng ra là phát điên lên vì bị tù hãm quá lâu, ta thề là sau này có kẻ nào giải thoát ta thì ta sẽ giết không thương tiếc và chẳng ban cho một ân huệ nào ngoài việc được chọn loại chết mà ta sẽ dành cho hắn. Vì vậy, ngày hôm nay mi đã tới đây, mi đã giải thoát cho ta, bây giờ mi hãy chọn theo ý thích cách mà ta sẽ giết mi”.
+
+Lão đánh cá vô cùng buồn bã:
+
+- Khốn khổ cho cái thân ta! - Lão kêu lên - Đến cái chỗ này làm gì để làm ơn cho một tên vô ơn bạc nghĩa? Hãy xem xét lại sự bất công của nhà ngươi đi và hãy huỷ bỏ đi cái lời thề phi lý đó. Tha thứ cho ta thì Thượng đế cũng sẽ tha thứ cho nhà ngươi; rộng lượng cho ta được sống, thì Người sẽ che chở cho nhà ngươi khỏi mọi mưu mô ám hại cuộc sống của nhà ngươi.
+
+- Không, nhất định mi phải chết - Hung thần nói – Mi chỉ còn được chọn ta sẽ giết mi cách nào mà thôi.
+
+Lão đánh cá nhận thấy là tên hung thần kiên quyết lấy đi mạng sống của mình, nên đau lòng vô hạn không phải vì mình mà vì ba đứa trẻ sẽ không khỏi sa vào cảnh đói khổ khi lão bị hung thần giết hại.
+
+- Than ôi - Lão tiếp tục - Phải rủ lòng thương ta mới phải chứ, hãy xem lại những gì ta đã làm cho nhà ngươi.
+
+- Ta đã nói rồi - Hung thần lại bảo - Chính vì thế mà ta buộc phải lấy mạng sống của mi.
+
+- Thật cũng khác đời đấy - Lão đánh cá phản bác - Nhà ngươi lại cứ nhất định muốn lấy oán để trả ân. Tục ngữ có câu: Làm ơn cho những kẻ không xứng đáng được hưởng thì bao giờ cũng được đền đáp lại bằng sự bạc bẽo vô ơn. Thú thực ta đã tưởng thế là sai: quả thật điều đó ngược với lẽ phải và lệ luật của xã hội. Thế mà lúc này ta đau xót thấy cái đó thật hoàn toàn chính xác.
+
+- Chớ để mất thời gian nữa - Hung thần cắt ngang - Tất cả những lý lẽ của mi cũng chẳng làm ta đổi ý. Hãy mau nói mi muốn ta giết mi như thế nào.
+
+Cái khó làm ló cái khôn, lão đánh cá nghĩ ra một mẹo:
+
+- Vì nhà ngươi nhất định muốn giết ta - Lão bảo hung thần - Ta đành thuận theo ý Thượng đế. Nhưng trước lúc ta chọn một cái chết như thế nào, ta xin ngươi, vì uy danh của Thượng đế đã được khắc trên dấu ấn của đấng tiên tri Salomon, con trai David, hãy nối rõ sự thật về một vấn đề ta hỏi ngươi đây.
+
+Khi nghe thấy lời cầu khẩn nhân danh Thượng đế. hung thần buộc lòng không thể khước từ, hắn thấy thầm run sợ, bảo lão đánh cá:
+
+- Nào mi muốn gì hãy nói đi, mau lên?
+
+Trời vừa rạng sáng, Scheherazade ngừng lại ở đoạn này.
+
+- Chị của em - Dinarzađe nói - Phải công nhận là chuyện chị kể càng lúc càng hay, nghe rất thích. Em mong rằng hoàng đế, chúa tể của chúng ta, không bắt chị phải chết trước khi Người được nghe nốt câu chuyện rất hay về lão đánh cá.
+
+- Hoàng đế là chúa tể - Scheherazade tiếp lời em - Tất cả điều gì Người thích đều phải được như nguyện.
+
+Vua Schahrlar cũng muốn được nghe đoạn cuối của câu chuyện như Dinarzade nên đã lui lại ngày hành quyết hoàng hậu.
+ 
+
+o O o
+
+Schahrlar cùng với hoàng hậu qua đêm cùng nhau cũng như các đêm trước, và trước khi trời sáng, Dinarzade đánh thức họ dậy bằng câu nói sau đây với Scheherazade:
+
+- Chị ơi, chị kể tiếp chuyện lão đánh cá!
+
+- Rất vui lòng - Scheherazade đáp - chị sẽ làm em được thoả mãn, với sự chuẩn y của Hoàng đế.
+
+- Hung thần - Nàng nói tiếp - Sau khi hứa là sẽ nói rõ sự thật, thì lão đánh cá bảo hắn:
+
+- Ta muốn biết có thực là nhà ngươi đã nằm trong chiếc bình kia không? Nhà ngươi có dám nhân đại danh của Thượng đế mà thề không?
+
+- Dám chứ - Hung thần đáp - Ta nhân đại đanh của Người thề rằng ta đã ở trong chiếc bình và đó hoàn toàn là sự thật.
+
+- Thật lòng mà nói - Lão đánh cá bảo - Ta không sao mà tin được. Cái bình này chưa chắc đã chứa nổi một bàn chân ngươi còn nói chi đến việc tất cả con người nhà ngươi nằm được trong đó?
+
+- Thế mà ta thề với mi - Hung thần tức mình bảo – Là ta đã ở gọn trong đó như mi đã thấy đấy. Sau lời thề thật là trịnh trọng đó mà mi vẫn chưa tin ta ư?
+
+- Chưa tin được, thật vậy đó - Lão đánh cá nói – Ta chưa thể tin nhà ngươi chừng nào ta chưa được tận mắt nhìn thấy.
+
+Thế là cả cơ thể hung thần bỗng tan ra thành khói, lan toả ra khắp mặt biển và trên bờ, rồi tụ lại, bắt đầu chui vào bình, cứ thế đều đều chầm chậm cho đến lúc chẳng còn gì ở bên ngoài cả. Rồi ngay lúc đó một tiếng nói từ trong bình thoát ra bảo lão đánh cá:
+
+- Thế nào, lão đánh cá đa nghi kia, ta đang ở trong bình rồi đấy. Bây giờ mi đã tin ta chưa?
+
+Lão đánh cá đáng lẽ trả lời hung thần thì lại cầm lấy cái nắp bằng chì đậy nhanh lên miệng chiếc bình và kêu to:
+
+- Hỡi hung thần? Đến lượt ngươi cầu xin ta làm phúc. Ngươi hãy chọn xem ta xử tử ngươi cách nào đây.
+
+Nhưng không, tốt hơn cả là ta lại ném ngươi xuống biển đúng ở cái chỗ mà ta đã vớt ngươi lên. Rồi ta sẽ dựng một cái chòi trên bờ này để ở và để báo cho tất cả những người đánh cá đến thả lưới ở đây là cần phải chú ý đề phòng kẻo lại vớt lên một tên hung thần như ngươi, kẻ đã thề là sẽ giết người nào giải phóng cho hắn.
+
+Nghe những lời nói xúc phạm ấy, hung thần nổi giận vùng vẫy hết sức để mong thoát ra khỏi chiếc bình nhưng không thể được vì dấu ấn của đấng tiên tri Salomon, con trai của David đã ngăn cản y lại. Thế là, thấy lão đánh cá đang có lợi thế hơn mình, hung thần đành phải nén cơn giận mà đấu dịu:
+
+- Này, lão đánh cá - Bằng giọng dịu ngọt y nói - Chớ có vội làm như điều lão vừa nói đó. Chẳng qua là ta đùa lão một chút thôi mà, lão chớ vội cho đó là điều nghiêm chỉnh nhé.
+
+- Hỡi hung thần - Lão đánh cá đáp - Chỉ mới lúc nãy thôi, ngươi to lớn biết bao và lúc này ngươi lại là bé nhất trong tất cả các thần linh, phải biết rằng những lời lẽ dối trá chẳng giúp gì được cho ngươi đâu. Ngươi sẽ được trả về cho biển cả. Nếu ngươi đã ở được dưới đó từng ấy thời gian mà ngươi đã kể với ta thì ngươi cũng có thể ở dưới đó cho đến ngày phán xét cuối cùng. Ta cầu xin ngươi nhân danh Thượng đế để cho ta được sống, ngươi đã chẳng đếm xỉa gì tới những lời cầu khẩn của ta. Ta phải đối xử với ngươi cũng như vậy.
+
+Hung thần không còn tiếc gì nữa để cố gắng làm cho lão đánh cá động lòng:
+
+- Hãy mở nắp bình ra đi - Y nói với lão - Hãy giải phóng cho ta, ta cầu xin mi. Ta hứa là mi sẽ được thoả mãn mọi bề.
+
+- Ngươi chỉ là một tên phản trắc - Lão đánh cá bảo - Ta sẽ phải mất mạng nếu ta còn dại dột đặt lòng tin vào ngươi. Rồi ngươi sẽ chẳng ngần ngại gì mà đối xử với ta chẳng khác gì cung cách mà một ông vua Hi Lạp nào đó đối xử với thầy thuốc Douban. Đó là câu chuyện mà ta muốn kể cho ngươi nghe đó. Hãy lắng tai mà nghe:
+
+Ngày xưa ở xứ Zouman quốc gia Ba Tư có một ông vua mà thần dân vốn là gốc người Hi Lạp.
+
+Ông vua này bị bệnh phong. Những ngự y sau khi đã dùng đủ các loại thuốc để chữa trị cho vua của họ nhưng không đem lại kết quả gì cả. Đang trong khi lúng túng thì Douban, một thầy thuốc danh tiếng tới triều đình.
+
+Người thầy thuốc này đã nghiên cứu sâu về y khoa trong các sách Hi Lạp, Ba Tư, Thổ Nhĩ Kỳ, Ả Rập, La Tinh, Syrie và Hébreux. Ngoài kiến thức sâu rộng về lĩnh vực triết học, ông còn hiểu biết rất thông thạo về tính năng tác dụng của tất cả các loại cây cỏ làm thuốc chữa bệnh. Khi ông được biết nhà vua bị bệnh mà các ngự y đều đã chịu bó tay, ông bèn ăn vận sạch sẽ chỉnh tề và tìm cách để ra mắt đức vua.
+
+- Tâu bệ hạ - Ông trình vua - Thần biết là các ngự y của triều đình không thể chữa được bệnh phong mà Người đang mắc phải. Nhưng nếu bệ hạ đặc ân chiếu cố tới tài mọn này thì thần xin cam đoan chữa lành bệnh cho Người mà chẳng cần phải thuốc uống thuốc xoa gì hết.
+
+Nghe lời tâu trình đó, nhà vua rất hài lòng, ông bảo:
+
+- Nếu nhà ngươi có tài làm được như lời ngươi nói thì ta sẽ làm cho ngươi thật giàu sang cho đến đời con đời cháu, không kể đến những món quà quí tặng riêng cho ngươi và ngươi sẽ là một sủng thần của ta. Vậy là nhà ngươi cam đoan chữa cho ta khỏi hủi mà chẳng cần phải có một thứ thuốc nào cả bên trong lẫn bên ngoài?
+
+- Tâu bệ hạ, đúng như vậy và chắc là với sự phù trợ của Thượng đế, thần sẽ thành công. Ngay từ ngày mai, thần sẽ bắt đầu cuộc thử nghiệm.
+
+Sau đó, ông thầy thuốc trở về nhà mình, làm một chày gỗ, khoét rỗng chuôi chỗ tay cầm và bỏ vào trong đó những vị thuốc mà ông đã tính toán phải sử dụng. Xong rồi, ông làm một quả tròn theo ý mình, và với những vật dụng đó, ngày hôm sau ông xin được bệ kiến. Ông quỳ xuống bên chân vua, hôn mặt đất...
+
+Tới đoạn này, Scheherazade nhận thấy trời đã hửng sáng. Nàng báo cho vua Schahriar và thôi kể.
+
+- Chị ơi - Dinarzade bảo chị - Đúng là em thật ngạc nhiên không biết là chị lấy đâu ra biết bao cái đẹp đẽ hay ho đó.
+
+- Em sẽ còn được nghe bao nhiêu cái hay cái đẹp nữa vào ngày mai, nếu hoàng đế chúa của chúng ta mở lượng hải hà còn để cho chị sống.
+
+Schahriar cũng chẳng kém gì Dinarzade, rất muốn nghe đoạn tiếp câu chuyện về người thầy thuốc Douban nên ngày hôm đó chưa ra lệnh đưa hoàng hậu đi hành quyết.
+ 
+
+o O o
+
+Đêm đó đã khuya lắm, khi Dinarzade thức giấc, kêu lên:
+
+- Chị ơi, nếu chị không còn ngủ nữa thì xin chị hãy kể nốt câu chuyện rất hay về ông vua Hi Lạp và thầy thuốc Douban đi.
+
+- Được thôi em ạ - Scheherazade đáp.
+
+Rồi nàng kể tiếp như sau:
+
+- Tâu bệ hạ, lão đánh cá vẫn kể tiếp với hung thần đang bị giam lại trong bình như thế này: “Thầy thuốc Douban đứng dậy và sau một vái dài, tâu với nhà vua ông ta thấy là lúc này nhà vua nên cưỡi ngựa và ra bãi chơi bóng chày. Nhà vua làm theo và khi tới bãi bóng, ông ta tới gần đưa cho nhà vua cái chày và nói: “Tâu bệ hạ, xin Người hãy dùng cái chày này đánh quả bóng này cho đến lúc cảm thấy bàn tay cầm chày và toàn thân mồ hôi nhễ nhại. Khi chất thuốc mà thần chứa trong cái chày này được bàn tay của bệ hạ làm cho nóng lên thì chất thuốc đó sẽ ngấm vào toàn thân của Người. Vậy lúc Người ra mồ hôi thật nhiều thì chấm dứt cuộc chơi vì lúc đó thuốc đã phát huy tác dụng. Trở về cung, bệ hạ vào buồng tắm rửa và kỳ cọ thật mạnh tay, rồi đi ngủ. Thức dậy vào sáng hôm sau, bệ hạ sẽ thấy lành bệnh hoàn toàn”.
+
+Nhà vua cầm lấy chiếc chày, giục ngựa đi tới gần quả bóng vừa ném xuống. Ông dùng chày đánh vào quả bóng. Những viên quan cùng tham gia lại đẩy quả bóng về cho ông, ông lại đánh cho bật ra xa và cứ thế ông đánh bóng bằng chiếc chày nắm chặt trong bàn tay cho đến lúc bàn tay ra mồ hôi nhơm nhớp, rồi toàn thân ông cũng nhễ nhại mồ hôi. Thế là, chất thuốc chứa trong chỗ tay nắm của chiếc chày đã ngấm vào toàn thân nhà vua qua cán chày như viên thầy thuốc đã nói. Nhà vua ngừng cuộc chơi, trở về cung, đi vào buồng tắm rửa, làm đúng như lời căn dặn của thầy thuốc Douban. Ông thấy vô cùng khoan khoái. Hôm sau, thức giấc, ngạc nhiên và mừng rỡ, ông thấy mình đã khỏi bệnh, toàn thân nhẵn nhụi đường như chưa từng bao giờ ông bị hủi, cái bệnh hầu như vô phương cứu chữa đó.
+
+Khoác vội vã long bào, ông ra ngự triều rất sớm vì muốn cho cả triều đình biết hiệu quả mầu nhiệm của bài thuốc mới. Khi thấy nhà vua hoàn toàn khỏi bệnh, tất cả các quan lại trong triều đều vui mừng khôn xiết.
+
+Thầy thuốc Douban tới sụp quì trước ngai vàng, đầu cúi sát đất. Nhà vua nhìn thấy, vời ông lại, cho ngồi bên cạnh mình, giới thiệu với cả triều đình và không ngớt nói những lời khen ngợi mà ông thật xứng đáng. Nhà vua không dừng lại ở đó, ông cho tổ chức tiệc mừng thật linh đình và thầy thuốc Douban được đặc ân ngồi ăn cùng mâm với vua...”.
+
+Tới đây, Scheherazade thấy trời hửng sáng, bèn ngừng lời.
+
+- Chị ơi! - Dinarzade nói - Em chẳng biết rồi câu chuyện sẽ kết thúc ra sao, nhưng đoạn đầu thật vô cùng hấp dẫn.
+
+- Đoạn tiếp theo sau đây còn hay hơn nhiều – Hoàng hậu Scheherazade đáp lời em - Và chị tin là em sẽ thấy rất thích thú, nếu hoàng đế vui lòng cho phép chị được kể tiếp vào tối mai.
+
+Vua Schahriar đồng ý và đứng đậy, rất hài lòng với phần câu chuyện vừa nghe.
+ 
+
+o O o
+
+Quá nửa đêm hôm sau, Dinarzade lại nói với hoàng hậu Scheherazade:
+
+- Chị thân yêu, nếu chị đã thức, thì chị kể nốt chuyện nhà vua Hi Lạp và ông thầy thuốc Douban cho em nghe đi.
+
+- Chị sẽ thoả mãn tính hiếu kỳ của em với sự chuẩn y của hoàng đế, chúa của chúng ta.
+
+Rồi nàng tiếp tục câu chuyện như sau:
+
+- Nhà vua Hi Lạp - Lão đánh cá tiếp tục kể - Ngoài việc để cho viên thầy thuốc Douban ăn chung mâm với mình, vào cuối ngày, nhà vua còn ban cho Douban một áo triều phục lộng lẫy giống như áo của các đại thần mặc trong những buổi chầu và hai nghìn đồng sequins. Ngày hôm sau và những ngày tiếp theo, viên thầy thuốc còn nhận được rất nhiều ân tứ. Cuối cùng, vị quốc vương này cảm thấy không sao có thể đền đáp lại cho thật đầy đủ công lao của viên thầy thuốc giỏi giang của mình nên hàng ngày ban phát cho ông không thiếu gì những của ngon vật lạ.
+
+Nhưng, nhà vua lại có một viên tể tướng đầu triều keo kiệt, tham lam và tất nhiên là với tính cách ấy thì thật dễ dàng phạm tội ác. Ông ta vô cùng khó chịu thấy những quà tặng quí giá trút cho viên thầy thuốc mà sự nổi tiếng đã bắt đầu làm cho ông ta ghen tức. Ông ta quyết định là phải làm cho hình bóng viên thầy thuốc biến đi khỏi tâm trí của nhà vua. Để thực hiện ý đồ đó, ông ta xin được bệ kiến và tâu riêng với nhà vua mình có một ý kiến cực kỳ quan trọng xin được bẩm báo. Được nhà vua cho phép, ông ta khúm núm tâu:
+
+- Tâu bệ hạ, thật vô cùng nguy hiểm cho một đấng quân vương là đã đặt lòng tin vào một con người mà tấm lòng trung trinh chưa được thử thách. Bệ hạ sủng ái và ban cho biết bao lộc hậu, bệ hạ có biết đâu đó là một tên phản nghịch trà trộn vào triều đình chỉ để thừa cơ mưu sát Người.
+
+- Điều mà ngươi dám tâu trình với trẫm đó là để ám chỉ ai vậy? - Vua nói - Nên nhớ là ngươi đang nói với trẫm chứ chẳng phải ai khác và ngươi tưởng là ta dễ tin lắm sao?
+
+- Tâu bệ hạ - Thừa tướng nói - Những điều thần dám mạo muội tâu trình cùng bệ hạ thần đều thấu hiểu cặn kẽ. Xin bệ hạ chớ nên đặt lòng tin vào một kẻ vô cùng nham hiểm. Xin bệ hạ hãy tỉnh giấc mê vì kẻ hạ thần xin một lần nữa nhắc lại là tên thầy thuốc Douban là một kẻ hạ tiện từ tận cùng xứ sở Hi Lạp đi tới kinh thành, tìm cách lọt vào triều đình của bệ hạ để thực hiện cái ý đồ khủng khiếp mà thần đã nói.
+
+- Không, không, thừa tướng - Vua ngắt lời - Trẫm tin chắc người mà nhà ngươi cho là một tên phản nghịch xảo trá thì lại là một người đức hạnh và có tấm lòng nhân ái hơn tất cả mọi con người. Không có một ai trên đời này làm ta yêu quí hơn ông ta. Ngươi hãy nghĩ xem, bằng môn thuốc nào hoặc đúng hơn là bằng phép màu gì mà ông ta đã chữa khỏi được bệnh phong cho trẫm. Nếu muốn hại trẫm thì tại sao ông ta lại ra sức cứu trẫm? Ông ta chỉ việc bỏ mặc trẫm cũng chẳng thoát khỏi chết mà cuộc sống của trẫm đang chỉ còn treo trên sợi tóc. Nhà ngươi hãy thôi đi, đừng gieo vào lòng trẫm những sự nghi hoặc bất công nữa. Thay vì nghe theo, ta báo cho nhà ngươi biết là ngay từ hôm nay ta hạ lệnh cấp cho người thầy thuốc vĩ đại này mỗi tháng một ngàn sequins cho đến hết đời. Dù cho ta có chia sẻ với ông ta tất cả của cải thậm chí cả non sông đất nước nữa cũng chưa đủ đền đáp lại những gì ông ấy đã làm cho ta. Ta đã hiểu rõ chính đạo cao đức rộng của ông ta đã làm khơi dậy lòng đố kị của nhà ngươi, nhưng chớ tưởng là vì lời sàm tấu của nhà ngươi mà ta thôi sủng ái con người đáng trọng này. Ta làm sao mà quên được chuyện một viên tể tướng đã nói gì với vua của ông ta là Sindbad để ngăn cản nhà vua đừng giết con mình là hoàng tử....
+
+- Nhưng, tâu bệ hạ - Scheherazade nói - Trời lại đã sáng rồi, thần thiếp chẳng còn nói tiếp được nữa.
+
+- Em thật cảm phục nhà vua Hi Lạp, đã cương quyết bác bỏ sự vu cáo của viên tể tướng - Dinarzade nói.
+
+- Hôm nay em khen ngợi thái độ cương quyết của ông vua đó, nhưng ngày mai em sẽ phải chê trách sự hèn yếu của ông ta - Scheherazade bảo - Nếu hoàng đế muốn chị kể nốt câu chuyện này.
+
+Schahriar cũng tò mò muốn biết sự hèn yếu của nhà vua Hi Lạp thể hiện ra sao nên lại lui ngày hành quyết hoàng hậu thêm hôm nữa.
+ 
+
+o O o
+
+- Chị ơi - Dinarzade gọi chị khoảng lúc gần tàn đêm hôm ấy - Nếu chị không ngủ nữa, để chờ trời sáng hẳn. Chị hãy kể nốt chuyện ông lão đánh cá đi. Đã tới chỗ ông vua Hi Lạp bênh vực thầy thuốc Douban bảo vệ sự trong sạch vô tội của ông ta.
+
+- Chị nhớ rồi - Scheherazade nói - Em sẽ được nghe đoạn tiếp theo đây - Rồi nàng ngoảnh về Schahrlar nói với ông:
+
+- Tâu bệ hạ, điều ông vua Hi Lạp vừa nói về quốc vương Sindbad làm khơi dậy trí tò mò của viên tể tướng.
+
+- Tâu bệ hạ - Ông ta nói - Xin bệ hạ tha tội nếu thần mạnh bạo xin Người cho biết là viên tể tướng đã nói gì với Sindbad, vua của ông ta để vị quốc vương này không giết con trai của mình.
+
+Nhà vua Hy Lạp sẵn lòng thoả mãn y:
+
+- Viên tể tướng này - Ông nói - Sau khi trình tâu với quốc vương Sindbad về sự vu cáo của một bà mẹ ghẻ, ông ta đã cảnh báo nhà vua là có thể ngài sẽ phải hối hận với hành động của mình. Tể tướng kể cho quốc vương câu chuyện sau đây.
