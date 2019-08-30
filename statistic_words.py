@@ -261,18 +261,22 @@ def get_keywords(corpus,min_density):
                 dic[w] = 1
             else:
                 dic[w]+=1
+    #len_ = số các từ trong bài văn
     len_ = len(ws)
     k = 2
+    #tập các t
     phrdict = [dic]
     #dic2 = dict()
     while(True):
         phrs_n = dict()
         for i in range(len_):
             if i <= len_ - k:
+                #phrases 
                 phrases = [" ".join([ws[i+j] for j in range(k-1)])," ".join([ws[i+j] for j in range(1,k)])]
                 phrase2 = " ".join([ws[i+j] for j in range(k)])
                 if phrase2 not in phrs_n:
                     phrs_n[phrase2] = 0
+                    #tính số lần xuất hiện phrase2
                     for sen in sens:
                         s = sen    
                         while(True):
@@ -282,7 +286,10 @@ def get_keywords(corpus,min_density):
                             phrs_n[phrase2]+=1
                             s = s[p+1:]
                 #print(str(phrases)+" ::: "+phrase2+" => "+str(phrs_n[phrase2]))
+            #loại bỏ các từ đã được chứa trong từ hiện tại
             for phrase in phrases:
+                #kiểm tra xem số lượng từ khóa của từ khóa hiện tại và từ con có bằng nhau không
+                #vd : Từ d['nhà hàng món huế'] = d['nhà hàng món']???
                 if phrs_n[phrase2] == phrdict[k-2][phrase]:
                     phrdict[k-2][phrase] = 0 
             print("thời gian = "+str((dt.now() - start).total_seconds())+' giây')
@@ -299,11 +306,12 @@ def get_keywords(corpus,min_density):
         for w in dic:
             s = get_num_of_sylables(w) #số lượng âm tiết trong 1 từ
             density = dic[w] * s #mật độ xuất hiện của từ trong văn bản
-            if density > min_density and dic[w] > 1 and s>1:
+            if density > min_density:
+            #and dic[w] > 1 and s>1:
                 data[i].append({'value' : w,'num_of_syllable' : s,'num' : dic[w],'density' : density * 100/sum_of_syllabels})   
         i += 1
-    print("tổng thời gian = "+str((dt.now() - start).total_seconds()*1000))
+    print("tổng thời gian = "+str((dt.now() - start).total_seconds())+' giây')
     print('số lượng âm tiết: '+str(sum_of_syllabels))
     return data
 f = open("words.txt", "w")
-f.write(json.dumps(get_keywords(open('data.txt','r').read(),20),ensure_ascii=False))
+f.write(json.dumps(get_keywords(open('data.txt','r').read(),10),ensure_ascii=False))
