@@ -1,0 +1,59 @@
+Hai anh em người Việt ghi dấu ấn với trí tuệ nhân tạo trong y khoa
+ictnews“Tôi thích thiết kế web nhưng lại học tài chính, rồi làm quản lý y tế. Em trai tôi thích lập trình, nhưng lại vào đại học y. Bây giờ hai anh em lại lôi kiến thức mảng đồ thị tin học do ba dạy hồi bé ra để nghiên cứu y khoa...”, Trần Đặng Minh Trí (Dimitry Trần) chia sẻ trên trang cá nhân.
+Trí tuệ nhân tạo sẽ thay đổi bộ mặt ngành thương mại điện tử như thế nào?
+Ứng dụng trí tuệ nhân tạo, Chatbot của Microsoft giờ đây có thể "ngắm cảnh làm thơ"
+LG nhận giải thưởng Hiệp hội Nghe nhìn châu Âu cho các dòng Tivi cao cấp tích hợp trí tuệ nhân tạo
+Trần Đặng Minh Trí (Dimitry Tran), tốt nghiệp thạc sĩ quản trị kinh doanh ĐH New South Wales (Úc). Anh được biết tới nhờ phát triển các ứng dụng của AI trong lĩnh vực y tế. Minh Trí là đồng sáng lập, Chủ tịch Harrison-AI, công ty chăm sóc sức khỏe áp dụng trí tuệ nhân tạo, đồng sáng lập trung tâm nghiên cứu cải thiện chăm sóc sức khỏe (CHIR- Center Healthcare and Improvement Research). Anh cũng là nhà đầu tư sáng lập và thuộc ban giám đốc của MediRecords.com – phần mềm quản lý thực hành y khoa trên nền tảng điện toán đám mây.
+
+"Lần đầu tiên tôi gõ bàn phím là lúc 5 tuổi, trên chiếc máy 286 được gửi từ bên Pháp về cho ba tôi. Năm 1992, cả Sài Gòn chỉ có vài cái máy vi tính. Máy của ba tôi dùng chip Intel 80286 16 MHz (khoảng chừng 96 Mega Flops - 96 triệu phép tính trong một giây). Đây là máy vi tính cá nhân mạnh nhất thời đấy.
+
+Tôi nhớ mỗi lần bật lên phải chờ 10 phút để máy khởi động. Cả ổ cứng chỉ có chục Mb, không chứa nổi một đoạn video quay trên iPhone ngày nay... Tôi vẫn nhớ má tôi may một chiếc khăn màu xanh để phủ lên máy cho khỏi bụi. Rồi những lần trời mưa, mái nhà dột, nước ngoài đường tràn vào nhà. Má lại tất tả bưng bê để máy tính khỏi bị ướt", Minh Trí nhớ lại kỷ niệm với chiếc máy tính đầu tiên của mình.
+
+Với chiếc máy này, ba của Minh Trí đã tìm tòi lập trình Pascal rồi dạy lớp Tin Học cho nhiều hệ học sinh trường chuyên Lê Hồng Phong. Không ít người trong số đó ngày nay đã có vị trí ở các công ty lớn trong và ngoài nước như Google, Microsoft, Adobe, FPT…
+
+Hai anh em người Việt ghi dấu ấn với trí tuệ nhân tạo trong y khoa - Ảnh 1.
+
+ 
+ 
+ 
+ 
+
+Trần Đặng Minh Trí phát biểu về chiến lược AI trong y tế với Chủ tịch nước và 4 Bộ trưởng ngày 18/8/2018.
+
+Lần đầu tiên Trí tự ráp máy tính là khi vào cấp 2 với chip Pentium III 600 MHz, mạnh hơn chiếc máy trước rất nhiều lần. Chuyên gia về AI trong lĩnh vực y tế này vẫn nhớ sau khi hoàn tất cài đặt hệ điều hành Windows 95, cậu tự hào dán chiếc tem lấp lánh ghi chữ 'Intel Inside' lên vỏ máy. Mỗi khi có tiền lì xì Tết, Trí lại xin ba chở ra cửa hàng Phong Vũ trên quận 1, xem thiết bị nào giảm giá rồi mua về tí toáy nâng cấp.
+
+Bẵng đi 20 năm với 6-7 chiếc máy tính tiếp theo, Minh Trí vào lớp chuyên Tin trường Lê Hồng Phong rồi đi du học Úc. Các máy tính ráp sẵn ngày càng mạnh, rồi chuyển sang dùng Mac, nên Minh Trí không còn để ý xem mình đang dùng chip gì, với tốc độ thế nào nữa.
+
+Cách đây ba năm, Minh Trí và em trai – Trần Đặng Đình Áng (Aengus Trần), bắt đầu nghiên cứu về áp dụng mạng thông minh nhân tạo (Deep Learning) trong y khoa. Sự phức tạp của các mạng này vượt quá sức xử lý của cả những laptop mạnh nhất trên thị trường. Do vậy hai anh em Minh Trí – Đình Ánh thuê server ảo của Amazon (AWS) để chạy các thuật toán.
+
+Đến năm ngoái, hai anh em quyết định ráp một chiếc máy dành riêng cho việc nghiên cứu y khoa. "Ngày xưa mẹ của tôi che chắn cho máy tính khỏi bị mưa dột ướt, thì ngày nay Harrison.One lại dùng nước để làm mát hệ thống vi xử lý", Trí chia sẻ về chi tiết thú vị của chiếc máy tính để làm AI hiện nay với chiếc PC trong quá khứ.
+
+"Với chip Intel i7 6850K Broadwell-E 6 nhân 3.60GHz, cộng với hai card đồ hoạ Nvidia GTX 1080 Ti, chiếc máy này có tốc độ khoảng 22.6 Tera FLOPS (ngàn tỉ phép tính trong một giây). Nó nhanh gấp 200.000 lần chiếc máy 80286 mà ba tôi dùng khi em trai tôi ra đời..." – Minh Trí chia sẻ.
+
+Chiếc máy được Trần Đặng Minh Trí nhắc tới chính công cụ của anh tại Harrison AI – một lab ứng dụng AI trong chăm sóc sức khỏe. Lab này được tạo ra với mục tiêu đưa các sản phẩm AI vào thực hành lâm sàng một cách nhanh nhất, với độ chính xác cao nhất, và giá thành thấp nhất. Năm 2017, Harrison AI đã tạo ra sự đột phá trong lĩnh vực chăm sóc sức khỏe sinh sản.
+
+Advertisement
+
+Hai anh em người Việt ghi dấu ấn với trí tuệ nhân tạo trong y khoa - Ảnh 2.
+
+Hai anh em Minh Trí – Đình Áng bên chiếc máy Harrison.One
+
+Ghi danh trên đấu trường "trí tuệ nhân tạo" thế giới
+
+Mặc dù ngày ngày vẫn phải vào bệnh viện để hoàn thành chương trình thực tập cuối khóa nhưng Đình Áng vẫn đảm nhiệm rất nhiều công việc quan trọng để đưa Harrison AI đến với Data Science Bowl – một trong những cuộc thi có uy tín lớn trong giới khoa học nói chung và mảng phát triển trí thông minh nhân tạo nói riêng vào đầu năm nay.
+
+Và chàng sinh viên y khoa năm cuối cùng với team của mình đã được ghi danh trong top 10 cuộc thi (thậm chí có thời điểm vươn lên vị trí thứ 2). Việc góp mặt trong top 10 sẽ giúp cho các thí sinh giới thiệu mô hình hiệu quả của mình tới thế giới, thu hút các đối tác và những nhà đầu tư có tầm nhìn.
+
+Ngày 27/6, Virtus Health - Tập đoàn hàng đầu về cung cấp các dịch vụ thụ tinh nhân tạo (IVF) ở Úc, công bố phát minh khoa học mang tên Ivy. Phát minh tiên phong này dựa trên công nghệ trí tuệ nhân tạo (AI) và do Trần Đặng Đình Áng phát triển.
+
+Chia sẻ về phát minh của mình, Áng cho biết năm 2017 khi học về IVF và anh tiếp cận với TS Simon Cooke, Giám đốc Khoa học của IVFAustralia, cơ sở thụ tinh nhân tạo đặt trụ sở tại Sydney và thuộc Tập đoàn Virtus Health. TS Cooke đã chia sẻ với sinh viên về thách thức của các chuyên gia IVF trong việc lựa chọn phôi. Sau giờ học, Áng đã gặp TS Cooke để mạnh dạn đề nghị hợp tác với ông cũng như IVFAustralia.
+
+Sau một năm nghiên cứu với dữ liệu của hơn 2.661 ca IVF từ Virtus Health, Áng đã chế tạo thành công một "mạng thần kinh nhân tạo" với khả năng chấm điểm phôi người trong quá trình phát triển. Áng đặt tên cho trí tuệ nhân tạo này là Ivy, lấy cảm hứng từ chữ "thụ tinh nhân tạo" trong tiếng Anh là IVF. Công nghệ này hiệu quả, tiết kiệm hơn việc chọn phôi bằng cách làm truyền thống, qua đó giúp bác sĩ làm việc nhanh và chính xác hơn.
+
+Hai anh em người Việt ghi dấu ấn với trí tuệ nhân tạo trong y khoa - Ảnh 3.
+
+Từ đầu năm 2018 đến nay, phần mềm Ivy đã được thử nghiệm tiền lâm sàng với hơn 2.000 phôi tại các cơ sở của Virtus Health ở các bang New South Wales và Queensland... Tập đoàn đã nộp đơn đăng ký bản quyền phát minh và chuẩn bị tiến hành thử nghiệm lâm sàng tại các phòng thí nghiệm của mình ở Úc và châu Âu trong năm nay. Đình Áng hy vọng sau khi kiểm nghiệm, Ivy sẽ sớm được giới thiệu vào Việt Nam.
+
+"Nhìn lại 30 năm tôi thấy mình thật may mắn. Ba má chưa bao giờ áp đặt lựa chọn lên chúng tôi, cho dù trong nghề nghiệp hay là chọn bạn đời. Con đường chúng tôi đi như dòng sông nhiều ngã rẽ. Nhưng khi nhìn về thượng nguồn thì vẫn luôn thấy gia đình, và cả ký ức chiếc máy 80286 xưa cũ của ba..."
+
+Trần Đặng Minh Trí
