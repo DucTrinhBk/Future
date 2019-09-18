@@ -308,7 +308,7 @@ def get_keywords(corpus,threshold):
         for w in dic:
             s = get_num_of_sylables(w) #số lượng âm tiết trong 1 từ
             density = dic[w] * s #mật độ xuất hiện của từ trong văn bản
-            if dic[w] ** s > threshold and dic[w] > 1 and s>0:
+            if density > threshold and dic[w] > 1 and s>0:
                 #print(w+" "+str(s))
                 data[i].append({'value' : w,'num_of_syllable' : s,'num' : dic[w],'density' : density * 100/sum_of_syllabels})   
         i += 1
