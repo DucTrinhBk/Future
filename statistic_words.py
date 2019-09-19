@@ -1,5 +1,4 @@
 import re,json
-# import tensorflow as tf
 from datetime import datetime as dt
 from unidecode import unidecode as u
 vowels = ['a','e','i','o','u','y']
