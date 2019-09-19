@@ -25,3 +25,12 @@ def get_list_data(cnxn,table,params,size):
         data.append(item)
     cursor.close()
     return data
+def execute(cnxn,sql):
+    try:
+        cursor = cnxn.cursor()
+        rs = cursor.execute(sql)
+        cursor.commit()
+        cursor.close()
+        return rs
+    except Exception as e:
+        print('có lỗi '+str(e))

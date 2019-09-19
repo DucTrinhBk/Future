@@ -315,4 +315,3 @@ def get_keywords(corpus,threshold):
     print("tổng thời gian = "+str((dt.now() - start).total_seconds())+" giây")
     print('số lượng âm tiết: '+str(sum_of_syllabels))
     return data
-#get_keywords(open('data.txt','r', encoding="utf8").read(),20)
