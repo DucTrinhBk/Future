@@ -25,10 +25,31 @@ def get_list_data(cnxn,table,params,size):
         data.append(item)
     cursor.close()
     return data
+'''
+get list data
+@cnxn connection
+@sql the query string 
+'''
+def get_list(cnxn,sql):
+    columns = []
+    data = []
+    cursor = cnxn.cursor()
+    rows = cursor.execute(sql)
+    for column in rows.description:
+        columns.append(column[0])
+    len_ = len(columns)
+    for row in rows:
+        item = dict()
+        for i in range(len_):
+            item[columns[i]] = row[i]
+        data.append(item)
+    cursor.close()
+    return data
+
 def execute(cnxn,sql):
     try:
         cursor = cnxn.cursor()
-        rs = cursor.execute(sql)
+        rs = cursor.execute(sql).fetchone()
         cursor.commit()
         cursor.close()
         return rs

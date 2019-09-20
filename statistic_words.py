@@ -36,6 +36,8 @@ def get_first_letter(phrase):
         return '\0'
     words = phrase.split()
     if len(words) == 1:
+        if not words[0].isalpha():
+            return '@'
         return words[0][0]
     f = ''
     for word in words:
@@ -71,14 +73,6 @@ def is_word(w):
         if not l.isalpha():
             return False
     return True
-def p(w1,w2):
-    w1_ = u(w1)
-    w2_ = u(w2)
-    letters = dict()
-    for l in w1:
-        if l not in letters:
-            letters[l] = []
-        
 def get_w_pos_in_sen(w):
     i = 0
     r = ""
@@ -149,6 +143,7 @@ def compare(w1,w2):
         d*=(0.9**int(m<=map_pos))
         map_pos = m
     return d**(1/min(i1[1],i2[1]))
+#tìm vị trí thứ @pos của @_sub trong chuỗi @_str
 def find_sub_str_with_pos(_str,_sub,pos):
     if(pos <= 0):
         return -1
@@ -177,15 +172,6 @@ def get_word_by_pos(sen,pos):
             return w
         i+=1
     return ''
-# get all of meanful words or phrase
-def get_tokens(sen):
-    tokens = []
-    sens = sorted(open("demo_words.txt","r").read().split("\n"),key=len,reverse=True)
-    len_ = len_sen(sen)
-
-    
-    return tokens
-
 def get_all_keys(sen,match,keys):
     if match <0 or match > 1:
         print("match must be from 1 to zero")
