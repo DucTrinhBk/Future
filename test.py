@@ -9,9 +9,6 @@ def insert_new_keys(keys):
 def get_list_keys(prefix):
     return list(map(lambda i: i['Name'].lower(),dc.get_list(dc.defaultConnect(),"EXEC sp_DucTrinh_GetAllKeys '"+prefix+"'")))
 text = 'toi    muon    dat ban   vao sang mai cho 5 nguoi lon tai nha hang hai san bien dong'
-# words
-# keys = get_list_keys()
-# print(st.get_all_keys('toi muon dat ban vao sang mai cho 5 nguoi lon tai nha hang hai san bien dong',0.9,keys))
 text = text.strip()
 text = re.sub(r'\s+',' ',text,flags=re.IGNORECASE)
 p = 0
@@ -27,8 +24,11 @@ while(True):
     keys = get_list_keys(item['frlt'])
     item['keys'] = dict()
     for key in keys:
-        item['keys'][key] = { 'key': key,'compare': st.compare(key,text[p:])}
-    data.append(item)
+        contain_quotient = st.contain_compare(text[p:],key)
+        if contain_quotient > 0.95:
+            item['keys'][key] = { 'key': key,'compare': contain_quotient}
+    if len(item['keys']) > 0:
+        data.append(item)
     p = p+np
 print(data)
-    
+#insert_new_keys(['Nhà hàng Hải Sản Biển Đông'])

@@ -143,6 +143,33 @@ def compare(w1,w2):
         d*=(0.9**int(m<=map_pos))
         map_pos = m
     return d**(1/min(i1[1],i2[1]))
+#if w1 contain w2
+def contain_compare(w1,w2):
+    w1,w2 = [re.sub(r'\s+',' ',w1.lower().strip()),re.sub(r'\s+',' ',w2.lower().strip())]
+    w1 = w1.replace(" ","")
+    w2 = w2.replace(" ","")
+    d = 1
+    map_pos = -1
+    letters = dict()
+    for l in w2:
+        if l not in letters:
+            letters[l] = 1
+        else:
+            letters[l]+=1
+        m = find_sub_str_with_pos(w1,l,letters[l])
+        d*=(0.99**int(m<=map_pos))
+        map_pos = m
+    letters = dict()
+    map_pos = -1
+    for l in u(w2):
+        if l not in letters:
+            letters[l] = 1
+        else:
+            letters[l]+=1
+        m = find_sub_str_with_pos(u(w1),l,letters[l])
+        d*=(0.9**int(m<=map_pos))
+        map_pos = m
+    return d**(1/get_num_of_sylables(w2))
 #tìm vị trí thứ @pos của @_sub trong chuỗi @_str
 def find_sub_str_with_pos(_str,_sub,pos):
     if(pos <= 0):
