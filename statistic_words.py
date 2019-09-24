@@ -1,6 +1,6 @@
 import re,json
 from datetime import datetime as dt
-from unidecode import unidecode as u
+from unidecode import unidecode
 vowels = ['a','e','i','o','u','y']
 def is_number(n):
     try:
@@ -11,6 +11,10 @@ def is_number(n):
         return False
     return True
 #len,num_of_syll,vls,first_letter
+def u(word):
+    if is_number(word):
+        return '@num'
+    return unidecode(word)
 def get_num_of_sylables(sens):
     sens = sens.lower()
     if sens.strip() == '':
