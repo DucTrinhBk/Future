@@ -3,13 +3,14 @@ import sys
 import json
 import statistic_words as st
 import dbconnect as dc
+from datetime import datetime as dt
 def insert_new_keys(keys):
     for key in keys:
         print('thêm từ khóa "'+key+'"')
         print(bool(dc.execute(dc.defaultConnect(),"EXEC sp_DucTrinh_AddNewKeyword N'"+key+"'")[0]))
 def get_list_keys(prefix):
     return list(map(lambda i: i['Name'].lower(),dc.get_list(dc.defaultConnect(),"EXEC sp_DucTrinh_GetAllKeys '"+prefix+"'")))
-text = "nha hang Pepperonis"
+text = "quan 99"
 text = text.strip()
 text = re.sub(r'\s+',' ',text,flags=re.IGNORECASE)
 p = 0
@@ -23,7 +24,7 @@ while(True):
     item['keys'] = dict()
     for key in keys:
         contain_quotient = st.contain_compare(text[p:],key)
-        if contain_quotient > 0.95:
+        if contain_quotient >= 1:
             item['keys'][key] = { 'key': key,'compare': contain_quotient}
     if len(item['keys']) > 0:
         data.append(item)
@@ -31,10 +32,14 @@ while(True):
     if np == 0:
         break
     p = p+np
+start = dt.now()
 print(json.dumps(data,ensure_ascii=False))
+print("time: "+str((dt.now() - start).total_seconds()))
 print("")
+start = dt.now()
 print(json.dumps(st.get_all_keys(text,0.95,get_list_keys("*")),ensure_ascii=False))
+print("time: "+str((dt.now() - start).total_seconds()))
 # print('')
 #print(get_list_keys('*'))
 #print(st.get_all_keys(text,0.8,get_list_keys('*')))
-#insert_new_keys(['Nhà hàng Hải Sản Biển Đông'])
+#insert_new_keys(open("body.txt", "r", encoding="utf8").read().split('\n'))

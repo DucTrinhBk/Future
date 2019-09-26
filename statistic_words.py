@@ -117,7 +117,7 @@ def compare(w1,w2):
     if w1.replace(' ','') == w2.replace(' ',''):
         return 1
     i1 = len(w1),get_num_of_sylables(w1),get_first_letter(w1),get_vowels(w1)
-    i2 = len(w2),get_num_of_sylables(w2),get_first_letter(w2),get_vowels(w2),get_vowels(u(w2))
+    i2 = len(w2),get_num_of_sylables(w2),get_first_letter(w2),get_vowels(w2),list(map(lambda item : u(item),i1[3]))
     d = 0.99**abs(i1[0] - i2[0]) * 0.9**abs(i1[1]-i2[1]) * 0.99**int(not i1[2] == i2[2])*0.9**int(not u(i1[2]) in u(i2[2]))
     for fl in i1[2]:
         d*0.9**int(not u(fl) in u(i2[2]))
