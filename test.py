@@ -24,7 +24,7 @@ while(True):
     item['keys'] = dict()
     for key in keys:
         contain_quotient = st.contain_compare(text[p:],key)
-        if contain_quotient >= 1:
+        if contain_quotient >= 0.95:
             item['keys'][key] = { 'key': key,'compare': contain_quotient}
     if len(item['keys']) > 0:
         data.append(item)
@@ -34,11 +34,11 @@ while(True):
     p = p+np
 start = dt.now()
 print(json.dumps(data,ensure_ascii=False))
-print("time: "+str((dt.now() - start).total_seconds()))
+print("time: "+str((dt.now() - start).total_seconds() * 1000)+" mili giây")
 print("")
 start = dt.now()
 print(json.dumps(st.get_all_keys(text,0.95,get_list_keys("*")),ensure_ascii=False))
-print("time: "+str((dt.now() - start).total_seconds()))
+print("time: "+str((dt.now() - start).total_seconds()* 1000)+" mili giây")
 # print('')
 #print(get_list_keys('*'))
 #print(st.get_all_keys(text,0.8,get_list_keys('*')))
