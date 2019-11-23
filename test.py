@@ -10,7 +10,7 @@ def insert_new_keys(keys):
         print(bool(dc.execute(dc.defaultConnect(),"EXEC sp_DucTrinh_AddNewKeyword N'"+key+"'")[0]))
 def get_list_keys(prefix):
     return list(map(lambda i: i['Name'].lower(),dc.get_list(dc.defaultConnect(),"EXEC sp_DucTrinh_GetAllKeys '"+prefix+"'")))
-text = "quan 99"
+text = 'hello' if len(sys.argv) < 2 else sys.argv[1]
 text = text.strip()
 text = re.sub(r'\s+',' ',text,flags=re.IGNORECASE)
 p = 0

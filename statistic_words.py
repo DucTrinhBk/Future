@@ -258,7 +258,7 @@ def get_sens_from_keys(sen,match,keys):
 def get_time(text):
     time_re = r'((?:0?\d|1\d|2[0-3])\s?(?:\:|h|giờ)\s?(?:[0-5]\d)?\s?(?:[0-5]\d)?(?:am|pm)?)'
     return re.findall(time_re,text,flags=re.IGNORECASE)[0].replace('giờ',':').replace('h',':')
- #   text = open('data.txt','r').read()
+ #   text = open('data.txt',, encoding="utf8").read()
 #    words = text.replace('\n',' . ').split()  
 # #ký tự cuối cùng của file phải có tp = 'End'   
 def get_keywords(corpus,threshold):
