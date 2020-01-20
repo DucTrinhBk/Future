@@ -12,8 +12,8 @@ def is_number(n):
     return True
 #len,num_of_syll,vls,first_letter
 def u(word):
-    if is_number(word):
-        return '@num'
+   # if is_number(word):
+   #     return '@num'
     return unidecode(word)
 def get_num_of_sylables(sens):
     sens = sens.lower()
@@ -40,7 +40,7 @@ def get_first_letter(phrase):
         return '\0'
     words = phrase.split()
     if len(words) == 1:
-        if not words[0].isalpha():
+        if not (words[0][0].isalpha() or words[0][0].isdigit()):
             return '@'
         return words[0][0]
     f = ''
@@ -96,33 +96,41 @@ def get_w_pos_in_sen(w):
         else:
             return "End",r.lower()
     return "Begin",r.lower()
-def compare_2_ways(w1,w2):
-    return (compare(w1,w2) + compare(w2,w1))/2
 #buffet buftef
 '''
+So sánh độ khớp của 2 từ với nhau(0 -> 1 tương ứng 0 => 100%)
 [
-    0.99 # 'len_ch',
-    0.9  # 'num_of_syll',
-    0.99 # 'first_letter_utf8',
-    0.8  # 'first_letter_ascii',
-    0.99 # 'vowels_utf8',
-    0.9  # 'vowels_ascii',
-    0.99 # 'hierachy_utf8',
-    0.9  # 'hierachy_ascii'
+    alpha # 'len_ch',
+    alpha # 'num_of_syll',
+    alpha # 'first_letter_utf8',
+    alpha ^ 2  # 'first_letter_ascii',
+    alpha # 'vowels_utf8',
+    alpha ^ 2  # 'vowels_ascii',
+    alpha ^ 2 # 'hierachy_utf8',
+    alpha ^ 2  # 'hierachy_ascii'
 ]
 #độ mạnh của từ khóa
+#giá trị mặc định alpha = 0.95
 '''
-def compare(w1,w2):
+def compare_2_ways(w1,w2,alpha = None):
+    return (compare(w1,w2,alpha) + compare(w2,w1,alpha))/2
+def compare(w1,w2,alpha = None):
     w1,w2 = [re.sub(r'\s+',' ',w1.lower().strip()),re.sub(r'\s+',' ',w2.lower().strip())]
     if w1.replace(' ','') == w2.replace(' ',''):
         return 1
+    if alpha is None:
+        alpha = 0.95
     i1 = len(w1),get_num_of_sylables(w1),get_first_letter(w1),get_vowels(w1)
     i2 = len(w2),get_num_of_sylables(w2),get_first_letter(w2),get_vowels(w2),list(map(lambda item : u(item),i1[3]))
-    d = 0.99**abs(i1[0] - i2[0]) * 0.9**abs(i1[1]-i2[1]) * 0.99**int(not i1[2] == i2[2])*0.9**int(not u(i1[2]) in u(i2[2]))
+    d = alpha**abs(i1[0] - i2[0]) * alpha**abs(i1[1]-i2[1]) * alpha**int(not i1[2] == i2[2])*alpha**(2*int(not u(i1[2]) == u(i2[2])))
+    #Quá khác biệt cho trả về 0 để giảm số lượng phép toán so sánh
+    #if d < 0.9:
+    #    return 0
+    #print(w1+" cmp ==> "+w2+" = "+str(d))
     for fl in i1[2]:
-        d*0.9**int(not u(fl) in u(i2[2]))
+        d*alpha**(2*int(not u(fl) in u(i2[2])))
     for vl in i1[3]:
-        d*=(0.99**int(vl not in i2[3]) * 0.9**int(u(vl) not in i2[4]))
+        d*=(alpha**int(vl not in i2[3]) * alpha**(2*int(u(vl) not in i2[4])))
     #check thu tu cac chu cai co khop nhau hay khong
     letters = dict()
     map_pos = -1
@@ -134,7 +142,7 @@ def compare(w1,w2):
         else:
             letters[l]+=1
         m = find_sub_str_with_pos(w2,l,letters[l])
-        d*=(0.99**int(m<=map_pos))
+        d*=(alpha**int(m<=map_pos))
         map_pos = m
     letters = dict()
     map_pos = -1
@@ -144,24 +152,34 @@ def compare(w1,w2):
         else:
             letters[l]+=1
         m = find_sub_str_with_pos(u(w2),l,letters[l])
-        d*=(0.9**int(m<=map_pos))
+        d*=(alpha**(2*int(m<=map_pos)))
         map_pos = m
-    return d**(1/min(i1[1],i2[1]))
+      #  print(l+" "+" "+str(d))
+    return d**(0.5/min(i1[1],i2[1]))
 #if w1 contain w2
+#kiểm tra tất cả các khớp của w2 có nằm trong w1 hay không
 def contain_compare(w1,w2):
+    #loại bỏ khoảng trắng và chuyển text thành dạng chữ thường
     w1,w2 = [re.sub(r'\s+',' ',w1.lower().strip()),re.sub(r'\s+',' ',w2.lower().strip())]
     w1 = w1.replace(" ","")
     w2 = w2.replace(" ","")
     d = 1
     map_pos = -1
+    #lưu các chữ cái của w2
     letters = dict()
+    #liệt kê các chữ cái @l của w2
     for l in w2:
         if l not in letters:
             letters[l] = 1
         else:
             letters[l]+=1
+        #tìm vị trí của chữ cái @l tiếp theo trong w1
         m = find_sub_str_with_pos(w1,l,letters[l])
-        d*=(0.99**int(m<=map_pos))
+        #với 1 substring có dạng @l1@l2 (VD: 'an') trong W2
+        # @m là vị trí của @l2 
+        #nếu @m <= @map_pos tức là vị trí của @l2 trong w1 < vị trí @l1 trong W1 thì d = d * 0.99
+        #nếu @m - @map_pos = 1 tức @l1@l2 cũng đang tồn tại trong w1 
+        d*=(0.99**(int(m<=map_pos)+int(m - map_pos != 1)))
         map_pos = m
     letters = dict()
     map_pos = -1
@@ -171,10 +189,11 @@ def contain_compare(w1,w2):
         else:
             letters[l]+=1
         m = find_sub_str_with_pos(u(w1),l,letters[l])
-        d*=(0.9**int(m<=map_pos))
+        d*=(0.9**(int(m<=map_pos)+int(m - map_pos != 1)))
         map_pos = m
-    return d**(1/get_num_of_sylables(w2))
-#tìm vị trí thứ @pos của @_sub trong chuỗi @_str
+    return d**(0.5/get_num_of_sylables(w2))
+#trả về vị trí @_sub trong chuỗi @_str lần thứ @pos
+#VD: lấy substring 'àn' của string 'đặt bÀN nhà hÀNg' thứ 2 là 13
 def find_sub_str_with_pos(_str,_sub,pos):
     if(pos <= 0):
         return -1
@@ -203,47 +222,89 @@ def get_word_by_pos(sen,pos):
             return w
         i+=1
     return ''
+
+#lấy tất cả các match(các key trong db khớp với @sen)
 def get_all_keys(sen,match,keys):
     if match <0 or match > 1:
-        print("match must be from 1 to zero")
+        print("match must be from 0 to 1")
         return []
     results = []
-    keys = sorted(keys,key=len,reverse=True)
+    #keys = sorted(keys,key=len,reverse=True)
     ws = sen.lower().split()
     i = 0
     n = len(ws)
     while(i < n):
         if not ws[i].isalpha():
-            results.append([('_notalpha_'+ws[i]+'_'+str(i)+'_'+str(len(ws[i])),i,i+1,1)])
-            i+=1
-            continue
+            results.append({
+                "key":'_notalpha_'+ws[i]+'_'+str(i)+'_'+str(len(ws[i])),
+                "matched_token": "",
+                "begin": i,
+                "len": 1,
+                "alpha": 0.95,
+                "score": 1
+            })
+     #       results.append([('_notalpha_'+ws[i]+'_'+str(i)+'_'+str(len(ws[i])),i,i+1,1)])
+     #       i+=1
+     #       continue
         temps = []
         for key in keys:
-            if u(key[0]) == u(ws[i][0]) : 
-                rs = ()
-                if len_sen(key) == 1:
-                    f = compare_2_ways(ws[i],get_word_by_pos(key,0))
+            keyName = key['Name']
+            keyAlpha = float(key['Alpha'])
+            if u(keyName[0]) == u(ws[i][0]) :
+                rs = dict() 
+                if len_sen(keyName) == 1:
+                    f = compare_2_ways(ws[i],get_word_by_pos(keyName,0),keyAlpha)
                     if f > match:
-                        rs = (key,i,i+1,compare_2_ways(ws[i],get_word_by_pos(key,0)))
+                        rs = {
+                            "key":keyName,
+                            "matched_token": ws[i],
+                            "begin": i,
+                            "len": 1,
+                            "alpha": keyAlpha,
+                            "score": f
+                        }
+                        #rs = (key,i,i+1,compare_2_ways(ws[i],get_word_by_pos(key,0)))
                 else:
                     j = 0
                     sub_sen = ''
-                    len_key = len_sen(key)
+                    len_key = len_sen(keyName)
                     while(i+j < n):
                         sub_sen+=(ws[i+j]+" ")
-                        cp = compare_2_ways(sub_sen,key)
+                        cp = compare_2_ways(sub_sen,keyName,keyAlpha)
                         if j > len_key +2:
                             break
+                        #print("key: "+key+"\n sub_sen: "+sub_sen+"\n score: "+str(cp))
+                        #Chọn ra match khớp nhất với sen
+                        #match tốt nhất sẽ là match có điểm so sánh(cp) lớn nhất(trong TH tìm đc match mới có cp = match cũ,lấy match có chiều dài lớn hơn)
                         if cp > match:
-                            if len(rs) ==0:
-                                    rs = (key,i,i+j+1,cp)
+                            #nếu chưa có match nào,tạo mới 1 match mới bao gồm key,vị trí bắt đầu(i),vị trí kết thúc(i+j),điểm so sánh(cp)
+                            if len(rs) == 0:
+                                    rs = {
+                                        "key":keyName,
+                                        "matched_token": sub_sen,
+                                        "begin": i,
+                                        "len": j+1,
+                                        "alpha": keyAlpha,
+                                        "score": cp
+                                    }
+                                   # rs = (key,i,i+j+1,cp)
+                            #nếu đã có match cũ,kiểm tra match mới
                             else:
-                                if rs[3] < cp or (rs[3] == cp and (i+j+1) > rs[2]):
-                                    rs = (key,i,i+j+1,cp)
+                                #if rs[3] < cp or (rs[3] == cp and (i+j+1) > rs[2]):
+                                #    rs = (key,i,i+j+1,cp)
+                                if rs["score"] < cp or (rs["score"] == cp and (j+1) > rs["len"]):
+                                     rs = {
+                                        "key":keyName,
+                                        "matched_token": sub_sen,
+                                        "begin": i,
+                                        "len": j+1,
+                                        "alpha": keyAlpha,
+                                        "score": cp
+                                    }
                         j += 1
                 if len(rs) > 0:
                     temps.append(rs)
-                    if rs[2] > n:
+                    if rs["begin"]+rs["len"] > n:
                         break
         if len(temps) > 0:
             results.append(temps)
@@ -260,7 +321,7 @@ def get_time(text):
     return re.findall(time_re,text,flags=re.IGNORECASE)[0].replace('giờ',':').replace('h',':')
  #   text = open('data.txt',, encoding="utf8").read()
 #    words = text.replace('\n',' . ').split()  
-# #ký tự cuối cùng của file phải có tp = 'End'   
+# #ký tự cuối cùng của file phải có tp = 'End'
 def get_keywords(corpus,threshold):
     f = open("words.txt", "w", encoding="utf8")
     start = dt.now()

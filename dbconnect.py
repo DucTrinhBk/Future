@@ -3,10 +3,7 @@ def connect(createConnectSql):
     cnxn = pyodbc.connect(createConnectSql)
     return cnxn
 def defaultConnect():
-    cnxn = pyodbc.connect("Driver={SQL Server Native Client 11.0};"
-                      "Server=DESKTOP-KBSLCQ1\SQLEXPRESS;"
-                      "Database=FutureProject;"
-                      "Trusted_Connection=yes;")
+    cnxn = pyodbc.connect("Driver={ODBC Driver 17 for SQL Server};Server=localhost;Database=FutureProject;UID=sa;PWD=Duc20091994;")
     return cnxn
 def get_list_data(cnxn,table,params,size):
     keys = None

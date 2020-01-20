@@ -1,35 +1,24 @@
-Pasgo, ứng dụng đặt bàn nhà hàng online
-đặt bàn,đặt chỗ nhà hàng nhanh chóng với Pasgo
-tìm kiếm nhà hàng giá rẻ
-Chả cá lã vọng
-Hải sản biển đông
-Món huế
-Món huế Times city
-nóng thế này nên đi ăn gì nhỉ
-Hà Nội không vội được đâu
-em ơi cho chị đặt bàn lúc @@time @@date nhé
-Đặt bàn qua pasgo đến nhà hàng Hải sản biển đông ưu đãi gì không em
-Cho mình xem tất cả các nhà hàng đang có ưu đãi trên hệ thống Pasgo với
-Nhà hàng món huế trần duy hưng
-Các nhà hàng trên tuyến phố Trần duy hưng
-Săn thông tin giảm giá,voucher ăn uống
-Ẩm thực 24h
-Các nhà hàng giá rẻ dưới 100k trên địa bàn Hà Nội,TPHCM,Đà Nẵng và Khánh Hòa
-Cho mình hỏi nhà hàng Chả cá Lã Vọng hình như có ưu đãi lúc @@time tối đúng ko bạn
-Nhà hàng Hải sản biển đông giảm giá trong khung giờ từ @@time đến @@time không bạn nhỉ
-Nhà hàng món huế Trần Duy hưng có ưu đãi gì nhân dịp cuối tuần không bạn nhỉ
-Nhân dịp 20/10 Món huế có ưu đãi gì không bạn
-20/11 này có sự kiện gì không pasgo ơi
-Mình muốn tìm quán bia xem đá bóng,có nhà hàng nào phù hợp không bạn
-Đi ăn buffet ở đâu thì sẽ được hưởng ưu đãi ở khu vực Hà Nội nhỉ
-Mình muốn tìm nhà hàng Buffet cho @@number người,có không hả Pasgo
-Có nhà hàng buffet giá rẻ dưới 100k trong hệ thống mình không Pasgo
-Cho mình hỏi nhà hàng Pizza gì gì trong Times city đó,bây giờ có ưu đãi gì không nhỉ
-Cho chị tìm nhà hàng có pizza cho @@number người nhé
-Liệt kê cho mình danh sách các nhà hàng trong khu Times city
-Mình muốn đặt bàn trong khu vực Times city, có thể cho mình vài gợi ý được không
-Bạn ơi,mình muốn đưa bọn trẻ nhà mình đi ăn pizza,bạn có thể gợi ý giúp mình một vài địa điểm được không
-Lẩu và nướng
-mình muốn đặt bàn đi ăn lẩu,nhờ tư vấn giùm
-Có quán bia nào gần đây không bạn nhỉ
-Gần đây có nhà hàng nào không
+Tổng Bí thư, Chủ tịch nước Nguyễn Phú Trọng trao Huy hiệu Đảng tặng các đồng chí Trần Đức Lương và Đặng Thị Ngọc Thịnh
+Thứ Tư, 08/01/2020, 12:11:02
+NDĐT - Sáng 8-1, tại Văn phòng Chủ tịch nước, Đảng bộ Văn phòng Chủ tịch nước tổ chức Lễ trao Huy hiệu 60 năm tuổi Đảng tặng đồng chí Trần Đức Lương, nguyên Ủy viên Bộ Chính trị, nguyên Chủ tịch nước; Huy hiệu 40 năm tuổi Đảng tặng đồng chí Đặng Thị Ngọc Thịnh, Ủy viên T.Ư Đảng, Phó Chủ tịch nước.
+
+Tổng Bí thư, Chủ tịch nước Nguyễn Phú Trọng trao Huy hiệu Đảng tặng các đồng chí Trần Đức Lương và Đặng Thị Ngọc Thịnh
+Tổng Bí thư, Chủ tịch nước Nguyễn Phú Trọng trao Huy hiệu 60 năm tuổi Đảng tặng đồng chí Trần Đức Lương.
+
+
+Đến dự, có đồng chí Tổng Bí thư, Chủ tịch nước Nguyễn Phú Trọng; các đồng chí nguyên Phó Chủ tịch nước Trương Mỹ Hoa, Nguyễn Thị Doan; đồng chí Sơn Minh Thắng, Ủy viên T.Ư Đảng, Bí thư Đảng ủy Khối các cơ quan T.Ư; lãnh đạo Văn phòng Tổng Bí thư, Văn phòng Chủ tịch nước… Các đồng chí nguyên Chủ tịch nước Nguyễn Minh Triết, Trương Tấn Sang; nguyên Phó Chủ tịch nước Nguyễn Thị Bình gửi hoa chúc mừng.
+
+Tổng Bí thư, Chủ tịch nước Nguyễn Phú Trọng trao Huy hiệu Đảng, tặng hoa chúc mừng các đồng chí Trần Đức Lương và Đặng Thị Ngọc Thịnh.
+
+Phát biểu ý kiến tại buổi lễ, thay mặt Đảng ủy Khối các cơ quan T.Ư, nhiệt liệt chúc mừng hai đồng chí được nhận Huy hiệu Đảng đợt này, đồng chí Sơn Minh Thắng nêu rõ, đây là sự ghi nhận của Đảng đối với những thành tích và công lao cống hiến cho Đảng, cho đất nước của các đồng chí Trần Đức Lương và Đặng Thị Ngọc Thịnh. Dù ở cương vị công tác nào, các đồng chí luôn nêu cao tinh thần gương mẫu của người đảng viên, trung thành với Đảng, với Tổ quốc và nhân dân, hết lòng, hết sức phục vụ sự nghiệp cách mạng vẻ vang của Đảng, của dân tộc, hoàn thành xuất sắc mọi nhiệm vụ được giao; được Đảng, Nhà nước tặng nhiều phần thưởng cao quý. Các đồng chí là tấm gương sáng để các thế hệ đảng viên trẻ học tập và noi theo.
+
+
+
+Tổng Bí thư, Chủ tịch nước Nguyễn Phú Trọng trao Huy hiệu 40 năm tuổi Đảng tặng đồng chí Đặng Thị Ngọc Thịnh.
+
+Phát biểu ý kiến tại buổi lễ, thay mặt các đồng chí được tặng Huy hiệu Đảng, nguyên Chủ tịch Trần Đức Lương bày tỏ niềm vinh dự và vô cùng xúc động được đồng chí Tổng Bí thư, Chủ tịch nước Nguyễn Phú Trọng trực tiếp trao tặng phần thưởng cao quý này. Vui mừng và tự hào là đảng viên của Đảng, được Đảng quan tâm chăm lo đào tạo, dìu dắt, tin tưởng giao nhiều trọng trách, hai đồng chí luôn ra sức phấn đấu, hoàn thành tốt mọi nhiệm vụ; luôn tin tưởng Đảng ta là một Đảng giàu truyền thống cách mạng, do Bác Hồ sáng lập, rèn luyện, đã lãnh đạo nhân dân ta giành hết thắng lợi này đến thắng lợi khác, luôn kiên định mục tiêu độc lập dân tộc và chủ nghĩa xã hội. Đảng đã khởi xướng, lãnh đạo thực hiện thắng lợi công cuộc đổi mới đất nước, để nhân dân ta có cuộc sống như ngày nay.
+
+Đồng chí nêu rõ, năm 2020 là năm có nhiều sự kiện chính trị quan trọng và ý nghĩa, bản thân dù đã nghỉ hưu, nhưng luôn quan tâm, tham gia ý kiến đóng góp cho Đảng, nhất là đối với các văn kiện trình Đại hội XIII. Thông điệp của Tổng Bí thư, Chủ tịch nước Nguyễn Phú Trọng nhân dịp Việt Nam đảm nhiệm trọng trách Chủ tịch ASEAN năm 2020 và Ủy viên không thường trực Hội đồng Bảo an Liên hợp quốc nhiệm kỳ 2020-2021, thể hiện quyết tâm đảm nhiệm thành công cả hai trọng trách này là sự nhất quán tiếp tục triển khai đường lối đối ngoại độc lập tự chủ, hòa bình, hợp tác và phát triển; đa dạng hóa, đa phương hóa trong quan hệ đối ngoại, chủ động và tích cực hội nhập quốc tế mà Đại hội XII của Đảng ta đề ra. Chúng tôi luôn luôn tin tưởng vào Ban Chấp hành Trung ương, Bộ Chính trị, Ban Bí thư trong nhiệm kỳ này cũng như nhiệm kỳ tới, tiếp tục lãnh đạo, đưa đất nước ta phát triển lên tầm cao mới, xứng đáng với niềm tin yêu và mong đợi của nhân dân…
+
+
+BẮC VĂN. ẢNH: ĐĂNG KHOA
