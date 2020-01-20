@@ -9,10 +9,15 @@ def insert_new_keys(keys):
     for key in keys:
         print('thêm từ khóa "'+key+'"')
         print(bool(dc.execute(dc.defaultConnect(),"EXEC sp_DucTrinh_AddNewKeyword N'"+key+"'")[0]))
+def get_key(name):
+    keys = dc.get_list(dc.defaultConnect(),"EXEC sp_DucTrinh_GetKeyByName N'"+name+"'")
+    if len(keys) == 0:
+        raise ValueError('không tìm thấy key')
+    return keys[0]
 def get_list_keys(prefix):
 #    return list(map(lambda i: i['Name'].lower(),dc.get_list(dc.defaultConnect(),"EXEC sp_DucTrinh_GetAllKeys '"+prefix+"'")))
     return dc.get_list(dc.defaultConnect(),"EXEC sp_DucTrinh_GetAllKeys '"+prefix+"'")
-#cập nhật hệ số huấn luyện(alpha)
+#cập nhật hệ số huấn luyệun(alpha)
 def training(text,k,threshold = None):
     if threshold is None:
         threshold= 0.9
@@ -21,12 +26,11 @@ def training(text,k,threshold = None):
         raise ValueError('Không tìm thấy key')
     key = keys[0]
     keyId = key['Id']
-    keyName = key['Name']
+    keyName = key['Name'].lower()
     keyAlpha = float(key['Alpha'])
-    score = st.compare_2_ways(text,keyName)
+    score = st.compare_2_ways(text,keyName,keyAlpha)
     #tính độ lệch của alpha mới so với alpha cũ
     deltaAlpha = threshold ** (1/log(score,keyAlpha)) - keyAlpha
-    keyAlpha+deltaAlpha*1.1
     return bool(dc.execute(dc.defaultConnect(),"EXEC sp_DucTrinh_UpdateAlphaById "+str(keyId)+","+str(keyAlpha+deltaAlpha*1.1))[0])
 #lấy tất cả các key chứ text
 def get_matches(text):
