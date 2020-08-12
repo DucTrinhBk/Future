@@ -32,23 +32,21 @@ def training(text,k,threshold = None):
     #tính độ lệch của alpha mới so với alpha cũ
     deltaAlpha = threshold ** (1/log(score,keyAlpha)) - keyAlpha
     return bool(dc.execute(dc.defaultConnect(),"EXEC sp_DucTrinh_UpdateAlphaById "+str(keyId)+","+str(keyAlpha+deltaAlpha*1.1))[0])
-#lấy tất cả các key chứ text
+#lấy tất cả các key chứa text
 def get_matches(text):
     text = text.strip()
     text = re.sub(r'\s+',' ',text,flags=re.IGNORECASE)
     #Lưu lại vị trí của từ hiện tại
     p = 0
     data = []
-    keys = get_list_keys(st.get_first_letter(text))
-    '''
+    keys = get_list_keys(st.get_first_letter(text)[0])
     for key in keys:
-        score = st.contain_compare(key,text)
+        score = st.contain_compare(text,key['Name'])
         if score >= 0.9:
-            data.append({'key': key,'score' : score})
-    print(json.dumps(data,ensure_ascii=False))
-    '''
+            data.append({'id':key['Id'],'key': key['Name'],'score' : score})
+   # print(json.dumps(data,ensure_ascii=False))
     start = dt.now()
-    print(json.dumps(st.get_all_keys(text,0.9,get_list_keys("*")),ensure_ascii=False))
+    #print(json.dumps(st.get_all_keys(text,0.9,get_list_keys("*")),ensure_ascii=False))
     print("time: "+str((dt.now() - start).total_seconds() * 1000)+" mili giây")
 '''
 text = 'hello' if len(sys.argv) < 2 else sys.argv[1]
