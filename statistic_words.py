@@ -1,6 +1,7 @@
 import re,json
 from datetime import datetime as dt
 from unidecode import unidecode
+import math
 vowels = ['a','e','i','o','u','y']
 
 '''
@@ -79,7 +80,7 @@ def get_vowels(phrase):
     words = phrase.split()
     vls = []
     if len(words) == 1:
-        if not words[0].isalpha():
+        if not words[0].isalpha() and words[0].isalnum() :
             return words
         vl = ''
         w = words[0] + ' '
@@ -87,7 +88,7 @@ def get_vowels(phrase):
             if u(l) in vowels:
                 vl+=l
             else:
-                if vl is not '':
+                if vl != '':
                     vls.append(vl)
                 vl = ''
         return vls if len(vls) > 0 else ['']
@@ -125,7 +126,141 @@ def get_w_pos_in_sen(w):
         else:
             return "End",r.lower()
     return "Begin",r.lower()
-#buffet buftef
+'''
+buffet buftef
+expect điểm kì vọng 0.9,0.89....
+gamma hệ số huấn luyện
+c1[0] = c1[1] * c1[9] + c1[2] * c1[10] + c1[3] * c1[11] + c1[4] * c1[12] + c1[5] * c1[13] + c1[6] * c1[14] + c1[7] * c1[15] + c[8] * c[16]
+c2[0] = c2[1] * c2[9] + c2[2] * c2[10] + c2[3] * c2[11] + c2[4] * c2[12] + c2[5] * c2[13] + c2[6] * c2[14] + c2[7] * c2[15] + c[8] * c[16]
+
+expect ** 8 ~ c1[0] ** 8 * multiply(1 + c1[j] / c2[i]) với (1 <= i <= 8 , 9<= j <= 16)
+
+if sum(c[j]) == 0:
+    dx1[i] = c1'[i] - c1[i] = 0
+else
+    R = (expect / c1[0]) ** (8/sum_a1)
+    dx1[i] = c1'[i] - c1[i] = r ^ c1[j] * c1[i] / c1[j]
+expect / c1[0]
+'''
+def training(w1,w2,expect,gamma = 0.01,alphas1 = None,alphas2 = None):
+    c1 = compare_ver2(w1,w2,alphas1)
+    c2 = compare_ver2(w2,w1,alphas2)
+    
+    if alphas1 is None:
+        alphas1 = dict()
+    if alphas2 is None:
+        alphas2 = dict()
+    
+    #print(f'c1 = {c1[0]} --- c2 = {c2[0]} --- result = {compare_2_ways_ver2(w1,w2,alphas1,alphas2)[0]}')
+
+    sum_a1 = sum(c1[9:])
+    sum_a2 = sum(c2[9:])
+
+    if sum_a1 == 0:
+        for i in range(8):
+            alphas1[i] = c1[i+1]
+    else:
+        R1 = (expect / c1[0]) ** (8/sum_a1)
+        A11 = 1
+        A12 = 1
+        for i in range(1,9):
+            if c1[i+8] == 0:
+                alphas1[i-1] = c1[i]
+            else:
+                d = (R1 ** c1[i+8] - 1) * c1[i] / c1[i+8]
+                alphas1[i-1] = c1[i] + d * gamma
+                A11 = A11 * (alphas1[i-1] ** c1[i+8])
+                A12 = A12 * (c1[i] ** c1[i+8] * (1 + c1[i + 8] * d * gamma / c1[i]))
+        
+    if sum_a2 == 0:
+        for i in range(8):
+            alphas2[i] = c2[i+1]
+    else:
+        R2 = (expect / c2[0]) ** (8/sum_a2)
+        A21 = 1
+        A22 = 1
+        for i in range(1,9):
+            if c2[i+8] == 0:
+                alphas2[i-1] = c2[i]
+            else:
+                d = (R2 ** c2[i+8] - 1) * c2[i] / c2[i+8]
+                alphas2[i-1] = c2[i] + d * gamma
+                A21 = A21 * (alphas2[i-1] ** c2[i+8])
+                A22 = A22 * (c2[i] ** c2[i+8] * (1 + c2[i + 8] * d * gamma / c2[i]))
+        #print(f'1. {A21 ** (1/8)} -- {A22 ** (1/8)}')
+    return alphas1,alphas2
+def compare_2_ways_ver2(w1,w2,alphas1 = None,alphas2 = None):
+    c1 = compare_ver2(w1,w2,alphas1)
+    c2 = compare_ver2(w2,w1,alphas2)
+    return [(c1[i] * c2[i]) ** (1/2) for i in range(len(c1))]
+
+
+'''
+    Trả về điểm(xác xuất + điểm từng hạng mục tương ứng)
+'''
+def compare_ver2(w1,w2,alphas = dict()):
+    defaultAlpha = 0.9
+    w1,w2 = [re.sub(r'\s+',' ',w1.lower().strip()),re.sub(r'\s+',' ',w2.lower().strip())]
+    if w1.replace(' ','') == w2.replace(' ',''):
+        return (1,defaultAlpha,defaultAlpha,defaultAlpha,defaultAlpha,defaultAlpha,defaultAlpha,defaultAlpha,defaultAlpha)
+    if alphas is None:
+        alphas = dict()
+    i1 = len(w1),get_num_of_sylables(w1),get_first_letter(w1),get_vowels(w1)
+    i2 = len(w2),get_num_of_sylables(w2),get_first_letter(w2),get_vowels(w2),list(map(lambda item : u(item),i1[3]))
+    d = 1
+    #độ lệch về chiều dài giữa w1,w2
+    x1 = abs(i1[0] - i2[0])
+    #độ lệch về số lượng âm tiết w1,w2
+    x2 = abs(i1[1]-i2[1])
+    #độ lệch về các chữ cái đầu của các từ
+    x3 = int(not i1[2] == i2[2])
+    #độ lệch về thứ tự các chữ cái đầu w1,w2
+    x4 = int(not u(i1[2]) == u(i2[2]))
+    #độ lệch về chữ cái đầu tiên w1,w2
+    x5 = 0
+    for fl in i1[2]:
+        x5+=int(not u(fl) in u(i2[2]))
+    #độ lệch về nguyên âm
+    x6 = 0
+    for vl in i1[3]:
+        x6+=(int(vl not in i2[3]) + 2*int(u(vl) not in i2[4]))
+    # độ lệch về thứ tự các chữ cái w1,w2 dạng utf-8
+    x7 = 0
+    # độ lệch về thứ tự các chữ cái w1,w2 dạng ascii
+    x8 = 0
+    letters = dict()
+    map_pos = -1
+    w1 = w1.replace(" ","")
+    w2 = w2.replace(" ","")
+    for l in w1:
+        if l not in letters:
+            letters[l] = 1
+        else:
+            letters[l]+=1
+        m = find_sub_str_with_pos(w2,l,letters[l])
+        x7 += int(m<=map_pos)
+        map_pos = m
+    letters = dict()
+    map_pos = - 1
+    for l in u(w1):
+        if l not in letters:
+            letters[l] = 1
+        else:
+            letters[l]+=1
+        m = find_sub_str_with_pos(u(w2),l,letters[l])
+        x8 += int(m<=map_pos)
+        map_pos = m
+    a1 = alphas.get(0,defaultAlpha)
+    a2 = alphas.get(1,defaultAlpha)
+    a3 = alphas.get(2,defaultAlpha)
+    a4 = alphas.get(3,defaultAlpha)
+    a5 = alphas.get(4,defaultAlpha)
+    a6 = alphas.get(5,defaultAlpha)
+    a7 = alphas.get(6,defaultAlpha)
+    a8 = alphas.get(7,defaultAlpha)
+    d = a1**x1 * a2**x2 * a3**x3 * a4**x4 * a5**x5 * a6**x6 * a7**x7 * a8**x8
+   #print(f'd = {d} \n a1 ^ x1 = {a1**x1} \n a2^x2 = {a2**x2} \n a3^x3 = {a3**x3} \n a4^x4 = {a4**x4} \n a5^x5 = {a5**x5} \n a6^x6 = {a6**x6} \n a7^x7 = {a7**x7} \n a8^x8 = {a8**x8}')
+    return (d ** (1/8),a1,a2,a3,a4,a5,a6,a7,a8,x1,x2,x3,x4,x5,x6,x7,x8)
 '''
 So sánh độ khớp của 2 từ với nhau(0 -> 1 tương ứng 0 => 100%)
 [
@@ -154,9 +289,6 @@ def compare(w1,w2,alpha = None,fence = None):
     i1 = len(w1),get_num_of_sylables(w1),get_first_letter(w1),get_vowels(w1)
     i2 = len(w2),get_num_of_sylables(w2),get_first_letter(w2),get_vowels(w2),list(map(lambda item : u(item),i1[3]))
     d = alpha**abs(i1[0] - i2[0]) * alpha**abs(i1[1]-i2[1]) * alpha**int(not i1[2] == i2[2])*alpha**(2*int(not u(i1[2]) == u(i2[2])))
-    pivot = fence **(0.5/min(i1[1],i2[1]))
-    if d < pivot:
-        return 0
     for fl in i1[2]:
         d*=alpha**(2*int(not u(fl) in u(i2[2])))
     for vl in i1[3]:
@@ -359,6 +491,7 @@ def get_keywords(corpus,density_threshold):
     start = dt.now()
     words = corpus.replace('\n',' . ').split()
     words.append('.')
+    #tập các câu mà đoạn văn đó được hợp thành
     sens = []
     sen = ""
     dic = dict()
@@ -383,6 +516,7 @@ def get_keywords(corpus,density_threshold):
     phrdict = [dic]
     #dic2 = dict()
     while(True):
+        #biến tạm để lưu tất cả các cụm từ có i từ
         phrs_n = dict()
         for i in range(len_):
             if i <= len_ - k:
@@ -390,9 +524,12 @@ def get_keywords(corpus,density_threshold):
                 phrase2 = " ".join([ws[i+j] for j in range(k)])
                 if phrase2 not in phrs_n:
                     phrs_n[phrase2] = 0
+                    #liệt kê tất cả các câu trong bài văn
                     for sen in sens:
                         s = sen    
                         while(True):
+                            #tìm xem cụm từ đang xét xuất hiện mấy lần trong câu @sen
+                            #nếu không xuất hiện thì next sang câu khác
                             p = s.find(phrase2)
                             if p == -1:
                                 break

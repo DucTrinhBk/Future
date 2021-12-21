@@ -17,7 +17,7 @@ def get_key(name):
 def get_list_keys(prefix):
 #    return list(map(lambda i: i['Name'].lower(),dc.get_list(dc.defaultConnect(),"EXEC sp_DucTrinh_GetAllKeys '"+prefix+"'")))
     return dc.get_list(dc.defaultConnect(),"EXEC sp_DucTrinh_GetAllKeys '"+prefix+"'")
-#cập nhật hệ số huấn luyệun(alpha)
+#cập nhật hệ số huấn luyện(alpha)
 def training(text,k,threshold = None):
     if threshold is None:
         threshold= 0.9
